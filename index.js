@@ -159,8 +159,8 @@ function getAllImportedImagesFileName() {
   // 未引用过的图片文件地址
   let unImportedImagePathList = allImagesPathList.filter(v => unImported.some(i => v.indexOf(i) !== -1))
   fs.writeFileSync('./output/unImportedImagePathList.json', JSON.stringify(unImportedImagePathList,"","\t"))
-
-  unImportedImagePathList.forEach(i => fs.rmSync(i))
+  // 删除未引用过的图片文件
+  // unImportedImagePathList.forEach(i => fs.rmSync(i))
 
   // 所有:src=语句
   fs.writeFileSync('./output/allSrcHtml.json', JSON.stringify(allSrcHtml,"","\t"))
