@@ -1,0 +1,4848 @@
+[
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-remind/components/LeaveComplete.vue",
+			"lineString": "import remindImg from 'assets/images/wx_downline.png'",
+			"importName": "remindImg",
+			"imageName": "wx_downline.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-remind/components/NoOwner.vue",
+			"lineString": "import remindImg from 'assets/images/wx_non_employee.png'",
+			"importName": "remindImg",
+			"imageName": "wx_non_employee.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-remind/components/ReLogin.vue",
+			"lineString": "import remindImg from 'assets/images/wx_non_employee.png'",
+			"importName": "remindImg",
+			"imageName": "wx_non_employee.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-remind/components/Unsafe.vue",
+			"lineString": "import remindImg from 'assets/images/wx_downline.png'",
+			"importName": "remindImg",
+			"imageName": "wx_downline.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-result/App.vue",
+			"lineString": "import unbindLoading from 'assets/images/wx_unbind_loading.gif'",
+			"importName": "unbindLoading",
+			"imageName": "wx_unbind_loading.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-result/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-result/App.vue",
+			"lineString": "import successIcon from 'assets/images/wx_position_publish_success.png'",
+			"importName": "successIcon",
+			"imageName": "wx_position_publish_success.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-result/App.vue",
+			"lineString": "import loadingFail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingFail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-risk/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-risk/App.vue",
+			"lineString": "import security from 'assets/images/wx_security.png'",
+			"importName": "security",
+			"imageName": "wx_security.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/MobileList.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/NoOwner.vue",
+			"lineString": "import checkNo from 'assets/images/wx_check_none.png'",
+			"importName": "checkNo",
+			"imageName": "wx_check_none.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/NoOwner.vue",
+			"lineString": "import checkOk from 'assets/images/wx_check_ok.png'",
+			"importName": "checkOk",
+			"imageName": "wx_check_ok.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/NoOwner.vue",
+			"lineString": "import tipIcon from 'assets/images/wx_talent_select_tip.png'",
+			"importName": "tipIcon",
+			"imageName": "wx_talent_select_tip.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OthersUnbind.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OthersUnbind.vue",
+			"lineString": "import security from 'assets/images/wx_security_icon_unrisk.png'",
+			"importName": "security",
+			"imageName": "wx_security_icon_unrisk.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OthersUnbind.vue",
+			"lineString": "import remindGreen from 'assets/images/wx_remind_green.png'",
+			"importName": "remindGreen",
+			"imageName": "wx_remind_green.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OthersUnbind.vue",
+			"lineString": "import securityWarn from 'assets/images/wx_security_warn.png'",
+			"importName": "securityWarn",
+			"imageName": "wx_security_warn.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OwnerUnbind.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OwnerUnbind.vue",
+			"lineString": "import security from 'assets/images/wx_security_icon.png'",
+			"importName": "security",
+			"imageName": "wx_security_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OwnerUnbind.vue",
+			"lineString": "import nextArrow from 'assets/images/wx_next_arrow.png'",
+			"importName": "nextArrow",
+			"imageName": "wx_next_arrow.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OwnerUnbind.vue",
+			"lineString": "import remindGreen from 'assets/images/wx_remind_green.png'",
+			"importName": "remindGreen",
+			"imageName": "wx_remind_green.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/OwnerUnbind.vue",
+			"lineString": "import securityWarn from 'assets/images/wx_security_warn.png'",
+			"importName": "securityWarn",
+			"imageName": "wx_security_warn.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/StatusResult.vue",
+			"lineString": "import unbindLoading from 'assets/images/wx_unbind_loading.gif'",
+			"importName": "unbindLoading",
+			"imageName": "wx_unbind_loading.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/StatusResult.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/StatusResult.vue",
+			"lineString": "import loadingGif from 'assets/images/wx_loading_gif53.gif'",
+			"importName": "loadingGif",
+			"imageName": "wx_loading_gif53.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-account-unrisk/components/StatusResult.vue",
+			"lineString": "import loadingGif712 from 'assets/images/wx_loading_gif712.gif'",
+			"importName": "loadingGif712",
+			"imageName": "wx_loading_gif712.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assets-assign/App.vue",
+			"lineString": "import pcone from 'assets/images/wx_assist_pcone.png'",
+			"importName": "pcone",
+			"imageName": "wx_assist_pcone.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assets-assign/App.vue",
+			"lineString": "import pctwo from 'assets/images/wx_assist_pctwo.png'",
+			"importName": "pctwo",
+			"imageName": "wx_assist_pctwo.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assist-manage/App.vue",
+			"lineString": "import blackBack from 'assets/images/wx_black_back.png'",
+			"importName": "blackBack",
+			"imageName": "wx_black_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assist-manage/App.vue",
+			"lineString": "import bNoneGender from 'assets/avatar/wx_b_none_gender.jpg'",
+			"importName": "bNoneGender",
+			"imageName": "wx_b_none_gender.jpg"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assist-manage/App.vue",
+			"lineString": "import inviteBanner from 'assets/invite/wx_invite_award_banner_down.png'",
+			"importName": "inviteBanner",
+			"imageName": "wx_invite_award_banner_down.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assist-manage/components/Empty.vue",
+			"lineString": "import noNetwork from 'assets/images/wx_no_network.png'",
+			"importName": "noNetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assist-manage/components/Empty.vue",
+			"lineString": "import loadingFail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingFail",
+			"imageName": "wx_loading_fail.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-assist-manage/components/Empty.vue",
+			"lineString": "import listEmpty from 'assets/images/wx_list_empty.png'",
+			"importName": "listEmpty",
+			"imageName": "wx_list_empty.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-bridge-conversation-list/App.vue",
+			"lineString": "import arrowBack from 'assets/images/wx_black_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_black_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-by-workmate/App.vue",
+			"lineString": "import arrowBack from 'assets/images/wx_black_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_black_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-by-workmate/App.vue",
+			"lineString": "import certificationPlan from 'assets/images/wx_certification_plan.png'",
+			"importName": "certificationPlan",
+			"imageName": "wx_certification_plan.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-by-workmate/App.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_gray_icon.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_gray_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-by-workmate/App.vue",
+			"lineString": "import moreCircle from 'assets/images/wx_more_circle.png'",
+			"importName": "moreCircle",
+			"imageName": "wx_more_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-by-workmate/components/SearchEmpty.vue",
+			"lineString": "import searchNothing from 'assets/images/wx_search_nothing_icon.png'",
+			"importName": "searchNothing",
+			"imageName": "wx_search_nothing_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-mode/App.vue",
+			"lineString": "import moreCircle from 'assets/images/wx_more_circle.png'",
+			"importName": "moreCircle",
+			"imageName": "wx_more_circle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-mode/App.vue",
+			"lineString": "import itemBg from 'assets/images/wx_certification_mode_bg_new.png'",
+			"importName": "itemBg",
+			"imageName": "wx_certification_mode_bg_new.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-mode/App.vue",
+			"lineString": "import arrowRght from 'assets/images/wx_arrow_next_gray.png'",
+			"importName": "arrowRght",
+			"imageName": "wx_arrow_next_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-mode/App.vue",
+			"lineString": "import recommendIcon from 'assets/images/wx_recommend_icon.png'",
+			"importName": "recommendIcon",
+			"imageName": "wx_recommend_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-certification-workmate-search/App.vue",
+			"lineString": "import arrowBack from 'assets/images/wx_black_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_black_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-communication-deliver/components/AllJob.vue",
+			"lineString": "import downGrayDeliver from 'assets/images/wx_down_gray_deliver.png'",
+			"importName": "downGrayDeliver",
+			"imageName": "wx_down_gray_deliver.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-communication-deliver/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-communication-deliver/components/NewResumeCard.vue",
+			"lineString": "import schoolIcon from 'assets/images/wx_school_icon.png'",
+			"importName": "schoolIcon",
+			"imageName": "wx_school_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-communication-deliver/components/NewResumeCard.vue",
+			"lineString": "import jdIcon from 'assets/resume-apply/wx_jd.png'",
+			"importName": "jdIcon",
+			"imageName": "wx_jd.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-communication-deliver/components/SizerOption.vue",
+			"lineString": "import indexFilter from 'assets/images/wx_index_filter.png'",
+			"importName": "indexFilter",
+			"imageName": "wx_index_filter.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-communication-sizer/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-consumers-list-browsed-job/components/DefaultEmpty.vue",
+			"lineString": "import noneCooperate from 'assets/images/wx_none_coopetate.png'",
+			"importName": "noneCooperate",
+			"imageName": "wx_none_coopetate.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-cooperate-invite-bywx/App.vue",
+			"lineString": "import notCheck from 'assets/images/wx_resume_reflect_check_none.png'",
+			"importName": "notCheck",
+			"imageName": "wx_resume_reflect_check_none.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-cooperate-invite-bywx/App.vue",
+			"lineString": "import check from 'assets/images/wx_resume_reflect_check_ok.png'",
+			"importName": "check",
+			"imageName": "wx_resume_reflect_check_ok.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-cooperate-invite-bywx/App.vue",
+			"lineString": "import close from 'assets/images/wx_clear_circle.png'",
+			"importName": "close",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-downline-remind/App.vue",
+			"lineString": "import remindImg from 'assets/images/wx_downline.png'",
+			"importName": "remindImg",
+			"imageName": "wx_downline.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/ListJobShareGuide.vue",
+			"lineString": "import rightIcon from 'assets/images/wx_arrow_right_blue.png'",
+			"importName": "rightIcon",
+			"imageName": "wx_arrow_right_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshgif from 'assets/images/wx_loading_refresh.gif'",
+			"importName": "refreshgif",
+			"imageName": "wx_loading_refresh.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg1 from 'assets/images/wx_home_refresh01.png'",
+			"importName": "refreshImg1",
+			"imageName": "wx_home_refresh01.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg2 from 'assets/images/wx_home_refresh02.png'",
+			"importName": "refreshImg2",
+			"imageName": "wx_home_refresh02.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg3 from 'assets/images/wx_home_refresh03.png'",
+			"importName": "refreshImg3",
+			"imageName": "wx_home_refresh03.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg4 from 'assets/images/wx_home_refresh04.png'",
+			"importName": "refreshImg4",
+			"imageName": "wx_home_refresh04.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg5 from 'assets/images/wx_home_refresh05.png'",
+			"importName": "refreshImg5",
+			"imageName": "wx_home_refresh05.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg6 from 'assets/images/wx_home_refresh06.png'",
+			"importName": "refreshImg6",
+			"imageName": "wx_home_refresh06.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg7 from 'assets/images/wx_home_refresh07.png'",
+			"importName": "refreshImg7",
+			"imageName": "wx_home_refresh07.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/components/RefreshLoading.vue",
+			"lineString": "import refreshgif from 'assets/images/wx_loading_refresh.gif'",
+			"importName": "refreshgif",
+			"imageName": "wx_loading_refresh.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/Activity.vue",
+			"lineString": "import popupsDoubleEleven from 'assets/double-eleven/wx_double_eleven2.png'",
+			"importName": "popupsDoubleEleven",
+			"imageName": "wx_double_eleven2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/Activity.vue",
+			"lineString": "import activeClose from 'assets/invite/wx_invite_close_icon.png'",
+			"importName": "activeClose",
+			"imageName": "wx_invite_close_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/AliBonus.vue",
+			"lineString": "import popupCloseIcon from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "popupCloseIcon",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/AliBonus.vue",
+			"lineString": "import aliBonusBg from 'assets/images/wx_ali_bonus_bg.png'",
+			"importName": "aliBonusBg",
+			"imageName": "wx_ali_bonus_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/AliBonus.vue",
+			"lineString": "import aliBonusTitle from 'assets/images/wx_ali_bonus_title.png'",
+			"importName": "aliBonusTitle",
+			"imageName": "wx_ali_bonus_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/AliBonus.vue",
+			"lineString": "import aliBonusInfoV2 from 'assets/images/wx_ali_bonus_info_v2.png'",
+			"importName": "aliBonusInfoV2",
+			"imageName": "wx_ali_bonus_info_v2.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/FirstReleaseJobCoupon.vue",
+			"lineString": "import popupCloseIcon from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "popupCloseIcon",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/FirstReleaseJobCoupon.vue",
+			"lineString": "import releaseJobBonusCouponBg from 'assets/images/wx_release_job_bonus_coupon_bg.png'",
+			"importName": "releaseJobBonusCouponBg",
+			"imageName": "wx_release_job_bonus_coupon_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/Lantern.vue",
+			"lineString": "import popupsLantern from 'assets/lantern/wx_popups_lantern3.png'",
+			"importName": "popupsLantern",
+			"imageName": "wx_popups_lantern3.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/Lantern.vue",
+			"lineString": "import lanterclose from 'assets/lantern/wx_popups_lantern_close.png'",
+			"importName": "lanterclose",
+			"imageName": "wx_popups_lantern_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/TalentFreePopup.vue",
+			"lineString": "import imgBg from 'assets/images/wx_talent_free_bg.png'",
+			"importName": "imgBg",
+			"imageName": "wx_talent_free_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/TalentFreePopup.vue",
+			"lineString": "import imgTitle from 'assets/images/wx_talent_free_title.png'",
+			"importName": "imgTitle",
+			"imageName": "wx_talent_free_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/TalentFreePopup.vue",
+			"lineString": "import img100 from 'assets/images/wx_talent_free_100.png'",
+			"importName": "img100",
+			"imageName": "wx_talent_free_100.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/TalentFreePopup.vue",
+			"lineString": "import imgIcon from 'assets/images/wx_talent_free_icon.png'",
+			"importName": "imgIcon",
+			"imageName": "wx_talent_free_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/YearVerify.vue",
+			"lineString": "import lanterclose from 'assets/images/wx_close_circle.png'",
+			"importName": "lanterclose",
+			"imageName": "wx_close_circle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/YearVerify.vue",
+			"lineString": "import verifyRisk from 'assets/images/wx_verify_risk.png'",
+			"importName": "verifyRisk",
+			"imageName": "wx_verify_risk.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/YearVerify.vue",
+			"lineString": "import verifyNopass from 'assets/images/wx_verify_nopass.png'",
+			"importName": "verifyNopass",
+			"imageName": "wx_verify_nopass.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/rd-drainage-popup/RdDrainagePopup.vue",
+			"lineString": "import rdCloseIcon from 'assets/images/wx_invite_close_icon.png'",
+			"importName": "rdCloseIcon",
+			"imageName": "wx_invite_close_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-home/popups/rd-drainage-popup/RdDrainagePopup.vue",
+			"lineString": "import rdPopupBg from 'assets/images/wx_rd_popup_bg_third.png'",
+			"importName": "rdPopupBg",
+			"imageName": "wx_rd_popup_bg_third.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-home/components/AllJob.vue",
+			"lineString": "import downGrayDeliver from 'assets/images/wx_down_gray_deliver.png'",
+			"importName": "downGrayDeliver",
+			"imageName": "wx_down_gray_deliver.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-home/components/ModelOption.vue",
+			"lineString": "import modeSelectorOn from 'assets/images/wx_mode_selector_on.png'",
+			"importName": "modeSelectorOn",
+			"imageName": "wx_mode_selector_on.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-home/components/ModelOption.vue",
+			"lineString": "import modeSelectorOff from 'assets/images/wx_mode_selector_off.png'",
+			"importName": "modeSelectorOff",
+			"imageName": "wx_mode_selector_off.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-home/components/SizerOption.vue",
+			"lineString": "import indexFilter from 'assets/images/wx_index_filter.png'",
+			"importName": "indexFilter",
+			"imageName": "wx_index_filter.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-search-home/components/ModelOption.vue",
+			"lineString": "import modeSelectorOn from 'assets/images/wx_mode_selector_on.png'",
+			"importName": "modeSelectorOn",
+			"imageName": "wx_mode_selector_on.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-search-home/components/ModelOption.vue",
+			"lineString": "import modeSelectorOff from 'assets/images/wx_mode_selector_off.png'",
+			"importName": "modeSelectorOff",
+			"imageName": "wx_mode_selector_off.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-im-search-home/components/SizerOption.vue",
+			"lineString": "import indexFilter from 'assets/images/wx_index_filter.png'",
+			"importName": "indexFilter",
+			"imageName": "wx_index_filter.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-index-condition/components/IndustryNew.vue",
+			"lineString": "import nextArrow from 'assets/images/wx_next_arrow.png'",
+			"importName": "nextArrow",
+			"imageName": "wx_next_arrow.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-index-condition/components/IndustryNew.vue",
+			"lineString": "import closeBlue from 'assets/images/wx_close_blue.png'",
+			"importName": "closeBlue",
+			"imageName": "wx_close_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/App.vue",
+			"lineString": "import switchIcon from 'assets/images/wx_interview_detail_switch.png'",
+			"importName": "switchIcon",
+			"imageName": "wx_interview_detail_switch.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/InterviewInfo.vue",
+			"lineString": "import interviewXianc from 'assets/images/wx_interview_xianc.png'",
+			"importName": "interviewXianc",
+			"imageName": "wx_interview_xianc.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/InterviewInfo.vue",
+			"lineString": "import interviewVideoIcon from 'assets/images/wx_interview_video_icon.png'",
+			"importName": "interviewVideoIcon",
+			"imageName": "wx_interview_video_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/InterviewInfo.vue",
+			"lineString": "import interviewAudioIcon from 'assets/images/wx_interview_audio_icon.png'",
+			"importName": "interviewAudioIcon",
+			"imageName": "wx_interview_audio_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/InterviewStatus.vue",
+			"lineString": "import nopass from 'assets/images/wx_interview_nopass.png'",
+			"importName": "nopass",
+			"imageName": "wx_interview_nopass.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/InterviewStatus.vue",
+			"lineString": "import pass from 'assets/images/wx_interview_pass.png'",
+			"importName": "pass",
+			"imageName": "wx_interview_pass.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/InterviewStatus.vue",
+			"lineString": "import wait from 'assets/images/wx_interview_wait.png'",
+			"importName": "wait",
+			"imageName": "wx_interview_wait.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/JoinStatusPopup.vue",
+			"lineString": "import interviewnoarrive from 'assets/images/wx_interview_noarrive.png'",
+			"importName": "interviewnoarrive",
+			"imageName": "wx_interview_noarrive.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/JoinStatusPopup.vue",
+			"lineString": "import interviewarrive from 'assets/images/wx_interview_arrive.png'",
+			"importName": "interviewarrive",
+			"imageName": "wx_interview_arrive.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/JoinStatusPopup.vue",
+			"lineString": "import arrowLeft from 'assets/images/wx_resume_arrow_right.png'",
+			"importName": "arrowLeft",
+			"imageName": "wx_resume_arrow_right.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/Loadings.vue",
+			"lineString": "import nonetwork from 'assets/images/wx_no_network.png'",
+			"importName": "nonetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/Loadings.vue",
+			"lineString": "import loadingfail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingfail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/PersonInfo.vue",
+			"lineString": "import interviewchat from 'assets/images/wx_interview_chat.png'",
+			"importName": "interviewchat",
+			"imageName": "wx_interview_chat.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/PersonInfo.vue",
+			"lineString": "import intervieresume from 'assets/images/wx_interview_resume.png'",
+			"importName": "intervieresume",
+			"imageName": "wx_interview_resume.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/PersonInfo.vue",
+			"lineString": "import personinfoLine from 'assets/images/wx_personinfo_line.png'",
+			"importName": "personinfoLine",
+			"imageName": "wx_personinfo_line.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-interview-detail/components/PersonInfo.vue",
+			"lineString": "import interviewBg from 'assets/images/wx_interview_detail_bg.png'",
+			"importName": "interviewBg",
+			"imageName": "wx_interview_detail_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-by-mail/App.vue",
+			"lineString": "import addEmpty from 'assets/images/wx_invite_add_empty.png'",
+			"importName": "addEmpty",
+			"imageName": "wx_invite_add_empty.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-by-mail/App.vue",
+			"lineString": "import add from 'assets/images/wx_invite_add.png'",
+			"importName": "add",
+			"imageName": "wx_invite_add.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-by-phone/App.vue",
+			"lineString": "import addEmpty from 'assets/images/wx_invite_add_empty.png'",
+			"importName": "addEmpty",
+			"imageName": "wx_invite_add_empty.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-by-phone/App.vue",
+			"lineString": "import add from 'assets/images/wx_invite_add.png'",
+			"importName": "add",
+			"imageName": "wx_invite_add.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-success/App.vue",
+			"lineString": "import mailBg from 'assets/images/wx_mail_bg.png'",
+			"importName": "mailBg",
+			"imageName": "wx_mail_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-success/App.vue",
+			"lineString": "import envelopeBottom from 'assets/images/wx_envelope_bottom.png'",
+			"importName": "envelopeBottom",
+			"imageName": "wx_envelope_bottom.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-success/App.vue",
+			"lineString": "import envelopeTop from 'assets/images/wx_envelope_top.png'",
+			"importName": "envelopeTop",
+			"imageName": "wx_envelope_top.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-success/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_add_comment_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_add_comment_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-success/App.vue",
+			"lineString": "import icAvatarMaleHr from 'assets/images/wx_ic_avatar_male_hr.png'",
+			"importName": "icAvatarMaleHr",
+			"imageName": "wx_ic_avatar_male_hr.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-invite-success/App.vue",
+			"lineString": "import icAvatarFemaleHr from 'assets/images/wx_ic_avatar_female_hr.png'",
+			"importName": "icAvatarFemaleHr",
+			"imageName": "wx_ic_avatar_female_hr.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-detail/App.vue",
+			"lineString": "import weilai from 'assets/images/wx_position_weilai.png'",
+			"importName": "weilai",
+			"imageName": "wx_position_weilai.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-detail/components/Empty.vue",
+			"lineString": "import noNetwork from 'assets/images/wx_no_network.png'",
+			"importName": "noNetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-detail/components/Empty.vue",
+			"lineString": "import loadingFail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingFail",
+			"imageName": "wx_loading_fail.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-detail/components/Empty.vue",
+			"lineString": "import listEmpty from 'assets/images/wx_list_empty.png'",
+			"importName": "listEmpty",
+			"imageName": "wx_list_empty.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link/App.vue",
+			"lineString": "import arrowBack from 'assets/images/wx_black_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_black_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link/components/JobItem.vue",
+			"lineString": "import selectIcon from 'assets/images/wx_check_ok.png'",
+			"importName": "selectIcon",
+			"imageName": "wx_check_ok.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link/components/JobItem.vue",
+			"lineString": "import disSlectIcon from 'assets/images/wx_check_none.png'",
+			"importName": "disSlectIcon",
+			"imageName": "wx_check_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link/components/ListEmpty.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_shared_resume_feedback_card_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_shared_resume_feedback_card_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link/components/ListEmpty.vue",
+			"lineString": "import videoLink from 'assets/job-video/wx_job_video_link.gif'",
+			"importName": "videoLink",
+			"imageName": "wx_job_video_link.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link-success/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_shared_resume_feedback_card_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_shared_resume_feedback_card_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link-success/App.vue",
+			"lineString": "import videoLink from 'assets/job-video/wx_job_video_link.gif'",
+			"importName": "videoLink",
+			"imageName": "wx_job_video_link.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link-success/components/JobItem.vue",
+			"lineString": "import selectIcon from 'assets/images/wx_check_ok.png'",
+			"importName": "selectIcon",
+			"imageName": "wx_check_ok.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-link-success/components/JobItem.vue",
+			"lineString": "import disSlectIcon from 'assets/images/wx_check_none.png'",
+			"importName": "disSlectIcon",
+			"imageName": "wx_check_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-list/App.vue",
+			"lineString": "import arrowBack from 'assets/images/wx_black_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_black_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import arrowBack from 'assets/job-video/wx_publicity_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_publicity_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import publicityBg from 'assets/job-video/wx_publicity_bg.png'",
+			"importName": "publicityBg",
+			"imageName": "wx_publicity_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import publicityPart from 'assets/job-video/wx_publicity_part.png'",
+			"importName": "publicityPart",
+			"imageName": "wx_publicity_part.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import shootGuide from 'assets/job-video/wx_video_shoot_guide.png'",
+			"importName": "shootGuide",
+			"imageName": "wx_video_shoot_guide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import publicityTitle from 'assets/job-video/wx_publicity_title.png'",
+			"importName": "publicityTitle",
+			"imageName": "wx_publicity_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import tiantai from 'assets/job-video/wx_slider_tiantai.png'",
+			"importName": "tiantai",
+			"imageName": "wx_slider_tiantai.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import sansheng from 'assets/job-video/wx_slider_sansheng.png'",
+			"importName": "sansheng",
+			"imageName": "wx_slider_sansheng.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-publicity/App.vue",
+			"lineString": "import heda from 'assets/job-video/wx_slider_heda.png'",
+			"importName": "heda",
+			"imageName": "wx_slider_heda.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-job-video-template/App.vue",
+			"lineString": "import arrowBack from 'assets/images/wx_black_back.png'",
+			"importName": "arrowBack",
+			"imageName": "wx_black_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-message-notice/components/FraudReport.vue",
+			"lineString": "import fraudIcon from 'assets/images/wx_fraud_icon.png'",
+			"importName": "fraudIcon",
+			"imageName": "wx_fraud_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-job-refresh/App.vue",
+			"lineString": "import saleAvatar from 'assets/images/wx_sale_female.png'",
+			"importName": "saleAvatar",
+			"imageName": "wx_sale_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-job-refresh/App.vue",
+			"lineString": "import downIcon from 'assets/images/wx_arrow_down_gray2.png'",
+			"importName": "downIcon",
+			"imageName": "wx_arrow_down_gray2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-job-refresh/App.vue",
+			"lineString": "import refreshEffect from 'assets/images/wx_suggest_refresh_effect.png'",
+			"importName": "refreshEffect",
+			"imageName": "wx_suggest_refresh_effect.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-job-refresh/App.vue",
+			"lineString": "import questionIcon from 'assets/images/wx_question_icon.png'",
+			"importName": "questionIcon",
+			"imageName": "wx_question_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-job-refresh/App.vue",
+			"lineString": "import refreshSuccessIcon from 'assets/images/wx_resume_reflect_check_ok.png'",
+			"importName": "refreshSuccessIcon",
+			"imageName": "wx_resume_reflect_check_ok.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/AdvisorArgument.vue",
+			"lineString": "import saleAvatar from 'assets/images/wx_sale_female.png'",
+			"importName": "saleAvatar",
+			"imageName": "wx_sale_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/AdvisorArgument.vue",
+			"lineString": "import arrowRight from 'assets/images/wx_arrow_right.png'",
+			"importName": "arrowRight",
+			"imageName": "wx_arrow_right.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/ArgumentInfo.vue",
+			"lineString": "import closeModal from 'assets/images/wx_close_icon_gray.png'",
+			"importName": "closeModal",
+			"imageName": "wx_close_icon_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/ArgumentInfo.vue",
+			"lineString": "import saleAvatar from 'assets/images/wx_sale_female.png'",
+			"importName": "saleAvatar",
+			"imageName": "wx_sale_female.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/InteractionGuide.vue",
+			"lineString": "import guideLeftIcon from '../assets/wx_left_arrow.png'",
+			"importName": "guideLeftIcon",
+			"imageName": "wx_left_arrow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_hide.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingLogo from 'assets/images/wx_resume_handling_logo.png'",
+			"importName": "resumeHandlingLogo",
+			"imageName": "wx_resume_handling_logo.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingIcon from 'assets/images/wx_resume_handling_icon.png'",
+			"importName": "resumeHandlingIcon",
+			"imageName": "wx_resume_handling_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingPopupBanner from 'assets/images/wx_resume_handling_popup_banner.png'",
+			"importName": "resumeHandlingPopupBanner",
+			"imageName": "wx_resume_handling_popup_banner.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingPopupClose from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "resumeHandlingPopupClose",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-recommend-resume/primary/HandlingResumeTip.vue",
+			"lineString": "import arrowRightBlue from 'assets/images/wx_arrow_right_blue.png'",
+			"importName": "arrowRightBlue",
+			"imageName": "wx_arrow_right_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/App.vue",
+			"lineString": "import suggestBg from 'assets/images/wx_suggest_bg.png'",
+			"importName": "suggestBg",
+			"imageName": "wx_suggest_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/EmptyOrLoad.vue",
+			"lineString": "import emptyIcon from 'assets/images/wx_new_empty.png'",
+			"importName": "emptyIcon",
+			"imageName": "wx_new_empty.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/EmptyOrLoad.vue",
+			"lineString": "import netErrorIconB from 'assets/images/wx_new_net_error.png'",
+			"importName": "netErrorIconB",
+			"imageName": "wx_new_net_error.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/EmptyOrLoad.vue",
+			"lineString": "import netErrorIconAli from 'assets/images/wx_new_net_error_ali.png'",
+			"importName": "netErrorIconAli",
+			"imageName": "wx_new_net_error_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/StateTab.vue",
+			"lineString": "import downIcon from 'assets/images/wx_arrow_down_gray3.png'",
+			"importName": "downIcon",
+			"imageName": "wx_arrow_down_gray3.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/SuggestCard.vue",
+			"lineString": "import hasVideoIcon from 'assets/job-video/wx_has_video.png'",
+			"importName": "hasVideoIcon",
+			"imageName": "wx_has_video.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/SuggestCard.vue",
+			"lineString": "import currentIconOld from 'assets/images/wx_check_type.png'",
+			"importName": "currentIconOld",
+			"imageName": "wx_check_type.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/SuggestCard.vue",
+			"lineString": "import currentIconAli from 'assets/images/wx_check_type_ali.png'",
+			"importName": "currentIconAli",
+			"imageName": "wx_check_type_ali.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-advisor-suggest-list/components/SuggestCard.vue",
+			"lineString": "import saleAvatar from 'assets/images/wx_sale_female.png'",
+			"importName": "saleAvatar",
+			"imageName": "wx_sale_female.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-already-chat/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-already-chat/components/SizerOption.vue",
+			"lineString": "import indexFilter from 'assets/images/wx_index_filter2.png'",
+			"importName": "indexFilter",
+			"imageName": "wx_index_filter2.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-communication-deliver/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-communication-sizer/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-communication-sizer/components/SingleOption.vue",
+			"lineString": "import cooperateIcon from 'assets/images/wx_cooperate_icon.png'",
+			"importName": "cooperateIcon",
+			"imageName": "wx_cooperate_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-cooperate-invite-bywx/App.vue",
+			"lineString": "import notCheck from 'assets/images/wx_resume_reflect_check_none.png'",
+			"importName": "notCheck",
+			"imageName": "wx_resume_reflect_check_none.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-cooperate-invite-bywx/App.vue",
+			"lineString": "import check from 'assets/images/wx_resume_reflect_check_ok.png'",
+			"importName": "check",
+			"imageName": "wx_resume_reflect_check_ok.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-cooperate-invite-bywx/App.vue",
+			"lineString": "import close from 'assets/images/wx_clear_circle.png'",
+			"importName": "close",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-cooperate-manage/components/Empty.vue",
+			"lineString": "import listEmpty from 'assets/images/wx_none_coopetate.png'",
+			"importName": "listEmpty",
+			"imageName": "wx_none_coopetate.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-cooperate-manage/components/JobDetailCard.vue",
+			"lineString": "import bNoneGender from 'assets/avatar/wx_b_none_gender.jpg'",
+			"importName": "bNoneGender",
+			"imageName": "wx_b_none_gender.jpg"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-custom-reply-message/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-custom-reply-message/App.vue",
+			"lineString": "import clearIcon from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearIcon",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/CandidateGuide.vue",
+			"lineString": "import guideDown from 'assets/images/wx_sanjiao_guide.png'",
+			"importName": "guideDown",
+			"imageName": "wx_sanjiao_guide.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/EmptyOrLoad.vue",
+			"lineString": "import noComment from 'assets/images/wx_no_comment.png'",
+			"importName": "noComment",
+			"imageName": "wx_no_comment.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/HandleGuide.vue",
+			"lineString": "import guideDown from 'assets/images/wx_sanjiao_guide.png'",
+			"importName": "guideDown",
+			"imageName": "wx_sanjiao_guide.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/JobSelect.vue",
+			"lineString": "import moreThreebar from 'assets/images/wx_more_threebar_white.png'",
+			"importName": "moreThreebar",
+			"imageName": "wx_more_threebar_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/ListJobShareGuide.vue",
+			"lineString": "import rightIcon from 'assets/images/wx_arrow_right_blue.png'",
+			"importName": "rightIcon",
+			"imageName": "wx_arrow_right_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/QuickReply.vue",
+			"lineString": "import rightIcon from 'assets/images/wx_arrow_right3.png'",
+			"importName": "rightIcon",
+			"imageName": "wx_arrow_right3.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/QuickReply.vue",
+			"lineString": "import homeCommum from 'assets/images/wx_home_commum.png'",
+			"importName": "homeCommum",
+			"imageName": "wx_home_commum.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/QuickReply.vue",
+			"lineString": "import homeCommumNo from 'assets/images/wx_home_commum_no.png'",
+			"importName": "homeCommumNo",
+			"imageName": "wx_home_commum_no.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshgif from 'assets/images/wx_loading_refresh.gif'",
+			"importName": "refreshgif",
+			"imageName": "wx_loading_refresh.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg1 from 'assets/images/wx_home_refresh01.png'",
+			"importName": "refreshImg1",
+			"imageName": "wx_home_refresh01.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg2 from 'assets/images/wx_home_refresh02.png'",
+			"importName": "refreshImg2",
+			"imageName": "wx_home_refresh02.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg3 from 'assets/images/wx_home_refresh03.png'",
+			"importName": "refreshImg3",
+			"imageName": "wx_home_refresh03.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg4 from 'assets/images/wx_home_refresh04.png'",
+			"importName": "refreshImg4",
+			"imageName": "wx_home_refresh04.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg5 from 'assets/images/wx_home_refresh05.png'",
+			"importName": "refreshImg5",
+			"imageName": "wx_home_refresh05.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg6 from 'assets/images/wx_home_refresh06.png'",
+			"importName": "refreshImg6",
+			"imageName": "wx_home_refresh06.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshCard.vue",
+			"lineString": "import refreshImg7 from 'assets/images/wx_home_refresh07.png'",
+			"importName": "refreshImg7",
+			"imageName": "wx_home_refresh07.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/RefreshLoading.vue",
+			"lineString": "import refreshgif from 'assets/images/wx_loading_refresh.gif'",
+			"importName": "refreshgif",
+			"imageName": "wx_loading_refresh.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/SearchAddjob.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_white.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/components/SearchAddjob.vue",
+			"lineString": "import addIcon from 'assets/images/wx_add_white.png'",
+			"importName": "addIcon",
+			"imageName": "wx_add_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/Activity.vue",
+			"lineString": "import popupsDoubleEleven from 'assets/double-eleven/wx_double_eleven2.png'",
+			"importName": "popupsDoubleEleven",
+			"imageName": "wx_double_eleven2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/Activity.vue",
+			"lineString": "import activeClose from 'assets/invite/wx_invite_close_icon.png'",
+			"importName": "activeClose",
+			"imageName": "wx_invite_close_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/AliBonus.vue",
+			"lineString": "import popupCloseIcon from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "popupCloseIcon",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/AliBonus.vue",
+			"lineString": "import aliBonusBg from 'assets/images/wx_ali_bonus_bg.png'",
+			"importName": "aliBonusBg",
+			"imageName": "wx_ali_bonus_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/AliBonus.vue",
+			"lineString": "import aliBonusTitle from 'assets/images/wx_ali_bonus_title.png'",
+			"importName": "aliBonusTitle",
+			"imageName": "wx_ali_bonus_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/AliBonus.vue",
+			"lineString": "import aliBonusInfo from 'assets/images/wx_ali_bonus_info.png'",
+			"importName": "aliBonusInfo",
+			"imageName": "wx_ali_bonus_info.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/FirstReleaseJobCoupon.vue",
+			"lineString": "import popupCloseIcon from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "popupCloseIcon",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/FirstReleaseJobCoupon.vue",
+			"lineString": "import releaseJobBonusCouponBg from 'assets/images/wx_release_job_bonus_coupon_bg.png'",
+			"importName": "releaseJobBonusCouponBg",
+			"imageName": "wx_release_job_bonus_coupon_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/Lantern.vue",
+			"lineString": "import popupsLantern from 'assets/lantern/wx_popups_lantern3.png'",
+			"importName": "popupsLantern",
+			"imageName": "wx_popups_lantern3.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/Lantern.vue",
+			"lineString": "import lanterclose from 'assets/lantern/wx_popups_lantern_close.png'",
+			"importName": "lanterclose",
+			"imageName": "wx_popups_lantern_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/TalentFreePopup.vue",
+			"lineString": "import imgBg from 'assets/images/wx_talent_free_bg.png'",
+			"importName": "imgBg",
+			"imageName": "wx_talent_free_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/TalentFreePopup.vue",
+			"lineString": "import imgTitle from 'assets/images/wx_talent_free_title.png'",
+			"importName": "imgTitle",
+			"imageName": "wx_talent_free_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/TalentFreePopup.vue",
+			"lineString": "import img100 from 'assets/images/wx_talent_free_100.png'",
+			"importName": "img100",
+			"imageName": "wx_talent_free_100.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/TalentFreePopup.vue",
+			"lineString": "import imgIcon from 'assets/images/wx_talent_free_icon.png'",
+			"importName": "imgIcon",
+			"imageName": "wx_talent_free_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/rd-drainage-popup/RdDrainagePopup.vue",
+			"lineString": "import rdCloseIcon from 'assets/images/wx_invite_close_icon.png'",
+			"importName": "rdCloseIcon",
+			"imageName": "wx_invite_close_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home/popups/rd-drainage-popup/RdDrainagePopup.vue",
+			"lineString": "import rdPopupBg from 'assets/images/wx_rd_popup_bg_third.png'",
+			"importName": "rdPopupBg",
+			"imageName": "wx_rd_popup_bg_third.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/common/AreaItems.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_home_condition_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_home_condition_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/common/MutiOption.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_gray.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/common/slider-bar/SliderBarr.vue",
+			"lineString": "import sliderIconZ from 'assets/images/wx_slider_icon_shadow.png'",
+			"importName": "sliderIconZ",
+			"imageName": "wx_slider_icon_shadow.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/common/slider-bar/SliderBarr.vue",
+			"lineString": "import sliderIconAli from 'assets/images/wx_slider_icon_ali.png'",
+			"importName": "sliderIconAli",
+			"imageName": "wx_slider_icon_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/AreaCondition.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_home_condition_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_home_condition_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/FlutterHomeCondition.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/FlutterHomeCondition.vue",
+			"lineString": "import arrowRightIcon from 'assets/images/wx_todoresume_arrow_gray.png'",
+			"importName": "arrowRightIcon",
+			"imageName": "wx_todoresume_arrow_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/KeywordCondition.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_home_condition_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_home_condition_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/NativeHomeCondition.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_home_condition_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_home_condition_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/NativeHomeCondition.vue",
+			"lineString": "import arrowRightIcon from 'assets/images/wx_todoresume_arrow_gray.png'",
+			"importName": "arrowRightIcon",
+			"imageName": "wx_todoresume_arrow_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/NativeHomeCondition.vue",
+			"lineString": "import sliderIconVip from 'assets/images/wx_slider_icon_vip.png'",
+			"importName": "sliderIconVip",
+			"imageName": "wx_slider_icon_vip.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-condition/components/NativeHomeCondition.vue",
+			"lineString": "import sliderIcon from 'assets/images/wx_slider_icon_shadow.png'",
+			"importName": "sliderIcon",
+			"imageName": "wx_slider_icon_shadow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-popup/components/CToBCoupon.vue",
+			"lineString": "import c2bCouponImg from 'assets/images/wx_cb_coupon.png'",
+			"importName": "c2bCouponImg",
+			"imageName": "wx_cb_coupon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-popup/components/CToBCoupon.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_white_close_new.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_white_close_new.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-popup/components/DoubleElevenOne.vue",
+			"lineString": "import smartChatImg from 'assets/images/wx_double_eleven_one_activity.png'",
+			"importName": "smartChatImg",
+			"imageName": "wx_double_eleven_one_activity.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-popup/components/DoubleElevenOne.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_white_close_new.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_white_close_new.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-popup/components/ManyToIm.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_home_condition_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_home_condition_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-home-popup/components/SmartChat.vue",
+			"lineString": "import smartChatImg from 'assets/images/wx_chat_activity_modal.png'",
+			"importName": "smartChatImg",
+			"imageName": "wx_chat_activity_modal.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/App.vue",
+			"lineString": "import closeWhite from 'assets/images/wx_back_white.png'",
+			"importName": "closeWhite",
+			"imageName": "wx_back_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/ErrorResume.vue",
+			"lineString": "import noneStatus from 'assets/images/wx_resume_hide.png'",
+			"importName": "noneStatus",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/ErrorResume.vue",
+			"lineString": "import noneStatusOrange from 'assets/images/wx_resume_hide_orange.png'",
+			"importName": "noneStatusOrange",
+			"imageName": "wx_resume_hide_orange.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/GreetingMessage.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/GreetingMessage.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideOne from 'assets/images/wx_guide_unsuit.png'",
+			"importName": "guideOne",
+			"imageName": "wx_guide_unsuit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideTwo from 'assets/images/wx_guide_suit.png'",
+			"importName": "guideTwo",
+			"imageName": "wx_guide_suit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideOneCtx from 'assets/images/wx_guide_unsuit_ctx.png'",
+			"importName": "guideOneCtx",
+			"imageName": "wx_guide_unsuit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideTwoCtx from 'assets/images/wx_guide_suit_ctx.png'",
+			"importName": "guideTwoCtx",
+			"imageName": "wx_guide_suit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import nextIcon from 'assets/images/wx_next_white.png'",
+			"importName": "nextIcon",
+			"imageName": "wx_next_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import tipIcon from 'assets/images/wx_tops_blue.png'",
+			"importName": "tipIcon",
+			"imageName": "wx_tops_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideBg from 'assets/images/wx_quick_guide_bg.png'",
+			"importName": "guideBg",
+			"imageName": "wx_quick_guide_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideBgBtn from 'assets/images/wx_quick_guide_bg_btn.png'",
+			"importName": "guideBgBtn",
+			"imageName": "wx_quick_guide_bg_btn.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Guide.vue",
+			"lineString": "import guideBgHead from 'assets/images/wx_quick_guide_bg_head.png'",
+			"importName": "guideBgHead",
+			"imageName": "wx_quick_guide_bg_head.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/HeaderBar.vue",
+			"lineString": "import backWhite from 'assets/images/wx_back_white.png'",
+			"importName": "backWhite",
+			"imageName": "wx_back_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/HeaderBar.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/HeaderBar.vue",
+			"lineString": "import greetingIcon from '../assets/wx_greeting_icon.png'",
+			"importName": "greetingIcon",
+			"imageName": "wx_greeting_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Instructions.vue",
+			"lineString": "import guideDisable from '../assets/wx_guide_disable.png'",
+			"importName": "guideDisable",
+			"imageName": "wx_guide_disable.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Instructions.vue",
+			"lineString": "import guideSuit from '../assets/wx_reply_guide_chat.png'",
+			"importName": "guideSuit",
+			"imageName": "wx_reply_guide_chat.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Instructions.vue",
+			"lineString": "import guideSuitOrange from '../assets/wx_reply_guide_chat_orange.png'",
+			"importName": "guideSuitOrange",
+			"imageName": "wx_reply_guide_chat_orange.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_hide.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-im-quick-reply/components/ShareBtn.vue",
+			"lineString": "import iconShareBlue from 'assets/images/wx_resume_share_blue.png'",
+			"importName": "iconShareBlue",
+			"imageName": "wx_resume_share_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-index-condition/components/IndustryNew.vue",
+			"lineString": "import nextArrow from 'assets/images/wx_next_arrow.png'",
+			"importName": "nextArrow",
+			"imageName": "wx_next_arrow.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-index-condition/components/IndustryNew.vue",
+			"lineString": "import closeBlue from 'assets/images/wx_close_blue.png'",
+			"importName": "closeBlue",
+			"imageName": "wx_close_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/App.vue",
+			"lineString": "import switchIcon from 'assets/images/wx_interview_detail_switch.png'",
+			"importName": "switchIcon",
+			"imageName": "wx_interview_detail_switch.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/InterviewInfo.vue",
+			"lineString": "import interviewXianc from 'assets/images/wx_interview_xianc.png'",
+			"importName": "interviewXianc",
+			"imageName": "wx_interview_xianc.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/InterviewInfo.vue",
+			"lineString": "import interviewVideoIcon from 'assets/images/wx_interview_video_icon.png'",
+			"importName": "interviewVideoIcon",
+			"imageName": "wx_interview_video_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/InterviewInfo.vue",
+			"lineString": "import interviewAudioIcon from 'assets/images/wx_interview_audio_icon.png'",
+			"importName": "interviewAudioIcon",
+			"imageName": "wx_interview_audio_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/Loadings.vue",
+			"lineString": "import nonetwork from 'assets/images/wx_no_network.png'",
+			"importName": "nonetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/Loadings.vue",
+			"lineString": "import loadingfail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingfail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/PersonInfo.vue",
+			"lineString": "import interviewchat from 'assets/images/wx_interview_chat.png'",
+			"importName": "interviewchat",
+			"imageName": "wx_interview_chat.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/PersonInfo.vue",
+			"lineString": "import intervieresume from 'assets/images/wx_interview_resume.png'",
+			"importName": "intervieresume",
+			"imageName": "wx_interview_resume.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/PersonInfo.vue",
+			"lineString": "import intervieresumeAli from 'assets/images/wx_interview_resume_ali.png'",
+			"importName": "intervieresumeAli",
+			"imageName": "wx_interview_resume_ali.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/PersonInfo.vue",
+			"lineString": "import personinfoLine from 'assets/images/wx_personinfo_line.png'",
+			"importName": "personinfoLine",
+			"imageName": "wx_personinfo_line.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-detail/components/PersonInfo.vue",
+			"lineString": "import interviewBg from 'assets/images/wx_interview_detail_bg.png'",
+			"importName": "interviewBg",
+			"imageName": "wx_interview_detail_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-invitation/components/PopupRequestAuthority.vue",
+			"lineString": "import closeIcon from 'assets/images/close_icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-invitation/components/PopupRequestAuthority.vue",
+			"lineString": "import imagesCalendarBapp from '../assets/wx-calendar-bapp.png'",
+			"importName": "imagesCalendarBapp",
+			"imageName": "wx-calendar-bapp.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-invitation/components/PopupRequestAuthority.vue",
+			"lineString": "import imagesCalendarCapp from '../assets/wx-calendar-capp.png'",
+			"importName": "imagesCalendarCapp",
+			"imageName": "wx-calendar-capp.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-interview-manage/components/CardBaseInfo.vue",
+			"lineString": "import interviewAudio from '../assets/image/wx_interview_icon.png'",
+			"importName": "interviewAudio",
+			"imageName": "wx_interview_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-invite-cooperate/components/Empty.vue",
+			"lineString": "import listEmpty from 'assets/images/wx_none_coopetate.png'",
+			"importName": "listEmpty",
+			"imageName": "wx_none_coopetate.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-invite-cooperate/components/SearchHeader.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_black.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/DefaultEmpty.vue",
+			"lineString": "import loadingGif from 'assets/images/wx_job_effect_loading.gif'",
+			"importName": "loadingGif",
+			"imageName": "wx_job_effect_loading.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/DefaultEmpty.vue",
+			"lineString": "import errorNetImg from 'assets/images/wx_job_effect_error_net.png'",
+			"importName": "errorNetImg",
+			"imageName": "wx_job_effect_error_net.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/DefaultEmpty.vue",
+			"lineString": "import errorNoJobImg from 'assets/images/wx_job_effect_error_no_job.png'",
+			"importName": "errorNoJobImg",
+			"imageName": "wx_job_effect_error_no_job.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/DefaultEmpty.vue",
+			"lineString": "import errorNoDataImg from 'assets/images/wx_job_effect_error_no_data.png'",
+			"importName": "errorNoDataImg",
+			"imageName": "wx_job_effect_error_no_data.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/NavHead.vue",
+			"lineString": "import backArrow from 'assets/images/wx_new_year_gift_main_back.png'",
+			"importName": "backArrow",
+			"imageName": "wx_new_year_gift_main_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/OptimizeExposure.vue",
+			"lineString": "import exposureLevel from 'assets/images/wx_job_effect_exposure_level.png'",
+			"importName": "exposureLevel",
+			"imageName": "wx_job_effect_exposure_level.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/OptimizeExposure.vue",
+			"lineString": "import exposureArrow from 'assets/images/wx_job_effect_exposure_arrow.png'",
+			"importName": "exposureArrow",
+			"imageName": "wx_job_effect_exposure_arrow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/OptimizeReply.vue",
+			"lineString": "import cApply from 'assets/images/wx_job_effect_c_apply.png'",
+			"importName": "cApply",
+			"imageName": "wx_job_effect_c_apply.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/OptimizeReply.vue",
+			"lineString": "import bReply from 'assets/images/wx_job_effect_b_reply.png'",
+			"importName": "bReply",
+			"imageName": "wx_job_effect_b_reply.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/ToOptimize.vue",
+			"lineString": "import warnIcon from 'assets/images/wx_job_effect_warn.png'",
+			"importName": "warnIcon",
+			"imageName": "wx_job_effect_warn.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/common/BigSection.vue",
+			"lineString": "import warnIcon from 'assets/images/wx_job_effect_warn.png'",
+			"importName": "warnIcon",
+			"imageName": "wx_job_effect_warn.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-center/components/common/VsCard.vue",
+			"lineString": "import cardBg from 'assets/images/wx_job_effect_card.png'",
+			"importName": "cardBg",
+			"imageName": "wx_job_effect_card.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/App.vue",
+			"lineString": "import backArrow from 'assets/images/wx_new_year_gift_main_back.png'",
+			"importName": "backArrow",
+			"imageName": "wx_new_year_gift_main_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/App.vue",
+			"lineString": "import starBg from 'assets/images/wx_job_effect_guide_star_bg.png'",
+			"importName": "starBg",
+			"imageName": "wx_job_effect_guide_star_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/App.vue",
+			"lineString": "import canSlideGif from 'assets/images/wx_job_effect_guide_can_slide.gif'",
+			"importName": "canSlideGif",
+			"imageName": "wx_job_effect_guide_can_slide.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/BottomBtn.vue",
+			"lineString": "import rightArrow from 'assets/images/wx_resume_guide_buy_rights_arrow.png'",
+			"importName": "rightArrow",
+			"imageName": "wx_resume_guide_buy_rights_arrow.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/BottomBtn.vue",
+			"lineString": "import vipIcon from 'assets/images/wx_job_effect_guide_vip_icon.png'",
+			"importName": "vipIcon",
+			"imageName": "wx_job_effect_guide_vip_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/ExposureDesc.vue",
+			"lineString": "import superDesc from 'assets/images/wx_job_effect_guide_super_desc.png'",
+			"importName": "superDesc",
+			"imageName": "wx_job_effect_guide_super_desc.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/ExposureDesc.vue",
+			"lineString": "import highDesc from 'assets/images/wx_job_effect_guide_high_desc.png'",
+			"importName": "highDesc",
+			"imageName": "wx_job_effect_guide_high_desc.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/ExposureDesc.vue",
+			"lineString": "import middleDesc from 'assets/images/wx_job_effect_guide_middle_desc.png'",
+			"importName": "middleDesc",
+			"imageName": "wx_job_effect_guide_middle_desc.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/NavHead.vue",
+			"lineString": "import backArrow from 'assets/images/wx_new_year_gift_main_back.png'",
+			"importName": "backArrow",
+			"imageName": "wx_new_year_gift_main_back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderBox.vue",
+			"lineString": "import sliderBg from 'assets/images/wx_job_effect_guide_slider_bg.png'",
+			"importName": "sliderBg",
+			"imageName": "wx_job_effect_guide_slider_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import titleIcon from 'assets/images/wx_job_effect_guide_title_icon.png'",
+			"importName": "titleIcon",
+			"imageName": "wx_job_effect_guide_title_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import guideTip from 'assets/images/wx_job_effect_guide_tip.png'",
+			"importName": "guideTip",
+			"imageName": "wx_job_effect_guide_tip.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import levelSuperGray from 'assets/images/wx_job_effect_guide_super_gray.png'",
+			"importName": "levelSuperGray",
+			"imageName": "wx_job_effect_guide_super_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import levelSuper from 'assets/images/wx_job_effect_guide_super.png'",
+			"importName": "levelSuper",
+			"imageName": "wx_job_effect_guide_super.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import levelHighGray from 'assets/images/wx_job_effect_guide_high_gray.png'",
+			"importName": "levelHighGray",
+			"imageName": "wx_job_effect_guide_high_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import levelHigh from 'assets/images/wx_job_effect_guide_high.png'",
+			"importName": "levelHigh",
+			"imageName": "wx_job_effect_guide_high.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import levelMiddleGray from 'assets/images/wx_job_effect_guide_middle_gray.png'",
+			"importName": "levelMiddleGray",
+			"imageName": "wx_job_effect_guide_middle_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import levelMiddle from 'assets/images/wx_job_effect_guide_middle.png'",
+			"importName": "levelMiddle",
+			"imageName": "wx_job_effect_guide_middle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-effect-guide/components/slider/SliderExposure.vue",
+			"lineString": "import grayLineTop from 'assets/images/wx_job_effect_guide_gray_line_top.png'",
+			"importName": "grayLineTop",
+			"imageName": "wx_job_effect_guide_gray_line_top.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusBg from 'assets/images/wx_release_job_bonus_bg.png'",
+			"importName": "releaseJobBonusBg",
+			"imageName": "wx_release_job_bonus_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import newYearGiftMainBack from 'assets/images/wx_new_year_gift_main_back.png'",
+			"importName": "newYearGiftMainBack",
+			"imageName": "wx_new_year_gift_main_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusTitle from 'assets/images/wx_release_job_bonus_title.png'",
+			"importName": "releaseJobBonusTitle",
+			"imageName": "wx_release_job_bonus_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusSubtitleRight from 'assets/images/wx_release_job_bonus_subtitle_right.png'",
+			"importName": "releaseJobBonusSubtitleRight",
+			"imageName": "wx_release_job_bonus_subtitle_right.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusSubtitleLeft from 'assets/images/wx_release_job_bonus_subtitle_left.png'",
+			"importName": "releaseJobBonusSubtitleLeft",
+			"imageName": "wx_release_job_bonus_subtitle_left.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusReleaseButton from 'assets/images/wx_release_job_bonus_release_button.gif'",
+			"importName": "releaseJobBonusReleaseButton",
+			"imageName": "wx_release_job_bonus_release_button.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusIconExposure from 'assets/images/wx_release_job_bonus_icon_exposure.png'",
+			"importName": "releaseJobBonusIconExposure",
+			"imageName": "wx_release_job_bonus_icon_exposure.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusIconDeliver from 'assets/images/wx_release_job_bonus_icon_deliver.png'",
+			"importName": "releaseJobBonusIconDeliver",
+			"imageName": "wx_release_job_bonus_icon_deliver.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusIconRanking from 'assets/images/wx_release_job_bonus_icon_ranking.png'",
+			"importName": "releaseJobBonusIconRanking",
+			"imageName": "wx_release_job_bonus_icon_ranking.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import popupCloseIcon from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "popupCloseIcon",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusWarnIcon from 'assets/images/wx_release_job_bonus_warn_icon.png'",
+			"importName": "releaseJobBonusWarnIcon",
+			"imageName": "wx_release_job_bonus_warn_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-job-release-sub/components/ReleasedSuccess.vue",
+			"lineString": "import successGreenAli from 'assets/images/wx_success_green_ali.png'",
+			"importName": "successGreenAli",
+			"imageName": "wx_success_green_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/HeaderBar.vue",
+			"lineString": "import quickReply from 'assets/images/wx_quick_reply.png'",
+			"importName": "quickReply",
+			"imageName": "wx_quick_reply.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResidueInfo.vue",
+			"lineString": "import quotationIco from '../assets/wx_quotation_ico.png'",
+			"importName": "quotationIco",
+			"imageName": "wx_quotation_ico.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResidueStatus.vue",
+			"lineString": "import noComment from 'assets/images/wx_no_comment.png'",
+			"importName": "noComment",
+			"imageName": "wx_no_comment.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResidueStatus.vue",
+			"lineString": "import nonetwork from 'assets/images/wx_no_network.png'",
+			"importName": "nonetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResidueStatus.vue",
+			"lineString": "import loadingfail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingfail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResumeCardV2.vue",
+			"lineString": "import goldVip from 'assets/images/wx_gold_vip.png'",
+			"importName": "goldVip",
+			"imageName": "wx_gold_vip.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResumeCardV2.vue",
+			"lineString": "import activitySchool from 'assets/images/wx_activity_school.png'",
+			"importName": "activitySchool",
+			"imageName": "wx_activity_school.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResumeCardV2.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-record/components/ResumeCardV2.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/ErrorResume.vue",
+			"lineString": "import noneStatus from 'assets/images/wx_resume_hide.png'",
+			"importName": "noneStatus",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/ErrorResume.vue",
+			"lineString": "import noneStatusOrange from 'assets/images/wx_resume_hide_orange.png'",
+			"importName": "noneStatusOrange",
+			"imageName": "wx_resume_hide_orange.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/FindTalents.vue",
+			"lineString": "import goodIconOrange from '../assets/wx_quick_good_orange.png'",
+			"importName": "goodIconOrange",
+			"imageName": "wx_quick_good_orange.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/FindTalents.vue",
+			"lineString": "import goodIconBlue from '../assets/wx_quick_good_blue.png'",
+			"importName": "goodIconBlue",
+			"imageName": "wx_quick_good_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/GreetingMessage.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/GreetingMessage.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/GreetingMessage.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_gray.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideOne from 'assets/images/wx_guide_unsuit.png'",
+			"importName": "guideOne",
+			"imageName": "wx_guide_unsuit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideTwo from 'assets/images/wx_guide_suit.png'",
+			"importName": "guideTwo",
+			"imageName": "wx_guide_suit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideOneCtx from 'assets/images/wx_guide_unsuit_ctx.png'",
+			"importName": "guideOneCtx",
+			"imageName": "wx_guide_unsuit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideTwoCtx from 'assets/images/wx_guide_suit_ctx.png'",
+			"importName": "guideTwoCtx",
+			"imageName": "wx_guide_suit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import nextIcon from 'assets/images/wx_next_white.png'",
+			"importName": "nextIcon",
+			"imageName": "wx_next_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import tipIcon from 'assets/images/wx_tops_blue.png'",
+			"importName": "tipIcon",
+			"imageName": "wx_tops_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideBg from 'assets/images/wx_quick_guide_bg.png'",
+			"importName": "guideBg",
+			"imageName": "wx_quick_guide_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideBgBtn from 'assets/images/wx_quick_guide_bg_btn.png'",
+			"importName": "guideBgBtn",
+			"imageName": "wx_quick_guide_bg_btn.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Guide.vue",
+			"lineString": "import guideBgHead from 'assets/images/wx_quick_guide_bg_head.png'",
+			"importName": "guideBgHead",
+			"imageName": "wx_quick_guide_bg_head.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/HeaderBar.vue",
+			"lineString": "import backWhite from 'assets/images/wx_back_white.png'",
+			"importName": "backWhite",
+			"imageName": "wx_back_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/HeaderBar.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/HeaderBar.vue",
+			"lineString": "import greetingIcon from '../assets/wx_greeting_icon.png'",
+			"importName": "greetingIcon",
+			"imageName": "wx_greeting_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Instructions.vue",
+			"lineString": "import guideDisable from '../assets/wx_guide_disable.png'",
+			"importName": "guideDisable",
+			"imageName": "wx_guide_disable.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Instructions.vue",
+			"lineString": "import guideSuit from '../assets/wx_reply_guide_chat.png'",
+			"importName": "guideSuit",
+			"imageName": "wx_reply_guide_chat.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Instructions.vue",
+			"lineString": "import guideSuitOrange from '../assets/wx_reply_guide_chat_orange.png'",
+			"importName": "guideSuitOrange",
+			"imageName": "wx_reply_guide_chat_orange.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_hide.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/ShareBtn.vue",
+			"lineString": "import iconShareBlue from 'assets/images/wx_resume_share_blue.png'",
+			"importName": "iconShareBlue",
+			"imageName": "wx_resume_share_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/resume-detail/GreetingMessage.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-reply/components/resume-detail/GreetingMessage.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/HeaderBar.vue",
+			"lineString": "import quickReply from 'assets/images/wx_quick_reply.png'",
+			"importName": "quickReply",
+			"imageName": "wx_quick_reply.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/HeaderBar.vue",
+			"lineString": "import backWhite from 'assets/images/wx_back_white.png'",
+			"importName": "backWhite",
+			"imageName": "wx_back_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResidueInfo.vue",
+			"lineString": "import quotationIco from '../assets/wx_quotation_ico.png'",
+			"importName": "quotationIco",
+			"imageName": "wx_quotation_ico.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_hide.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import replyBgBlue from 'components/quick-reply/assets/wx_reply_bg_blue.png'",
+			"importName": "replyBgBlue",
+			"imageName": "wx_reply_bg_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResumeCardV2.vue",
+			"lineString": "import goldVip from 'assets/images/wx_gold_vip.png'",
+			"importName": "goldVip",
+			"imageName": "wx_gold_vip.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResumeCardV2.vue",
+			"lineString": "import activitySchool from 'assets/images/wx_activity_school.png'",
+			"importName": "activitySchool",
+			"imageName": "wx_activity_school.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResumeCardV2.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResumeCardV2.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ResumeCardV2.vue",
+			"lineString": "import onlineIcon from '../assets/wx_online.png'",
+			"importName": "onlineIcon",
+			"imageName": "wx_online.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-quick-residue/components/ToConnectBtn.vue",
+			"lineString": "import replyErroricon from '../assets/wx_reply_error_icon.png'",
+			"importName": "replyErroricon",
+			"imageName": "wx_reply_error_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-collection/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-detail/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingLogo from 'assets/images/wx_resume_handling_logo.png'",
+			"importName": "resumeHandlingLogo",
+			"imageName": "wx_resume_handling_logo.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-detail/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingIcon from 'assets/images/wx_resume_handling_icon.png'",
+			"importName": "resumeHandlingIcon",
+			"imageName": "wx_resume_handling_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-detail/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingPopupBanner from 'assets/images/wx_resume_handling_popup_banner.png'",
+			"importName": "resumeHandlingPopupBanner",
+			"imageName": "wx_resume_handling_popup_banner.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-detail/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingPopupClose from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "resumeHandlingPopupClose",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-detail/components/primary/HandlingResumeTip.vue",
+			"lineString": "import arrowRightBlue from 'assets/images/wx_arrow_right_blue.png'",
+			"importName": "arrowRightBlue",
+			"imageName": "wx_arrow_right_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-shared-list/components/ISharedResumeCard.vue",
+			"lineString": "import resumeSharedListShareIcon from 'assets/images/wx_resume_share_icon.png'",
+			"importName": "resumeSharedListShareIcon",
+			"imageName": "wx_resume_share_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-shared-list/components/ISharedResumeCard.vue",
+			"lineString": "import workIcon from 'assets/images/wx_resume_work_icon.png'",
+			"importName": "workIcon",
+			"imageName": "wx_resume_work_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-resume-shared-list/components/ReceivedShare.vue",
+			"lineString": "import arrowRightGray from 'assets/images/wx_arrow_right_gray.png'",
+			"importName": "arrowRightGray",
+			"imageName": "wx_arrow_right_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search/components/JobItem.vue",
+			"lineString": "import arrowRght from 'assets/images/wx_arrow_right_gray.png'",
+			"importName": "arrowRght",
+			"imageName": "wx_arrow_right_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search/components/SearchHeader.vue",
+			"lineString": "import arrowDown from 'assets/images/wx_arrow_down.png'",
+			"importName": "arrowDown",
+			"imageName": "wx_arrow_down.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search/components/SearchHeader.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search/components/SearchHistory.vue",
+			"lineString": "import deleteIcon from 'assets/images/wx_delete_icon.png'",
+			"importName": "deleteIcon",
+			"imageName": "wx_delete_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search/components/SearchHistory.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_down_gray.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_down_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search/components/SearchHot.vue",
+			"lineString": "import deleteIcon from 'assets/images/wx_delete_icon.png'",
+			"importName": "deleteIcon",
+			"imageName": "wx_delete_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-search-filter/components/SingleOption.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_down_gray2.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_down_gray2.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-staff-search/components/SearchHeader.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_black.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-staff-search/components/SearchHeader.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-user-assets/components/TeamSelect.vue",
+			"lineString": "import moreThreebar from 'assets/images/wx_nav_more.png'",
+			"importName": "moreThreebar",
+			"imageName": "wx_nav_more.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-user-assets/components/TeamSelect.vue",
+			"lineString": "import assetsSelectBg from 'assets/images/wx_assets_select_bg.png'",
+			"importName": "assetsSelectBg",
+			"imageName": "wx_assets_select_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-user-assets/components/TeamSelectModule.vue",
+			"lineString": "import closeModal from 'assets/images/wx_close_icon_gray.png'",
+			"importName": "closeModal",
+			"imageName": "wx_close_icon_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-new-user-assets/components/TeamSelectModule.vue",
+			"lineString": "import checkedRight from 'assets/images/wx_check_city.png'",
+			"importName": "checkedRight",
+			"imageName": "wx_check_city.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-news-detail/App.vue",
+			"lineString": "import backIcon from 'assets/images/wx_back_white.png'",
+			"importName": "backIcon",
+			"imageName": "wx_back_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-news-detail/App.vue",
+			"lineString": "import backBg from 'assets/images/wx_back_bg.png'",
+			"importName": "backBg",
+			"imageName": "wx_back_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-news-list/App.vue",
+			"lineString": "import backIcon from 'assets/images/wx_back_white.png'",
+			"importName": "backIcon",
+			"imageName": "wx_back_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-news-list/App.vue",
+			"lineString": "import backBg from 'assets/images/wx_back_bg.png'",
+			"importName": "backBg",
+			"imageName": "wx_back_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/App.vue",
+			"lineString": "import closeWhite from 'assets/images/wx_back_white.png'",
+			"importName": "closeWhite",
+			"imageName": "wx_back_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/BottomHandle.vue",
+			"lineString": "import quicknosuit from 'assets/images/wx_quick_nosuit.png'",
+			"importName": "quicknosuit",
+			"imageName": "wx_quick_nosuit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/BottomHandle.vue",
+			"lineString": "import quickim from 'assets/images/wx_quick_im.png'",
+			"importName": "quickim",
+			"imageName": "wx_quick_im.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/BottomHandle.vue",
+			"lineString": "import quicknext from 'assets/images/wx_quick_next.png'",
+			"importName": "quicknext",
+			"imageName": "wx_quick_next.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/BottomHandle.vue",
+			"lineString": "import quickLoading from 'assets/images/wx_quick_loading.gif'",
+			"importName": "quickLoading",
+			"imageName": "wx_quick_loading.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/BottomHandle.vue",
+			"lineString": "import quickChat from 'assets/images/wx_quick_chat.gif'",
+			"importName": "quickChat",
+			"imageName": "wx_quick_chat.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/BottomHandle.vue",
+			"lineString": "import quickUnsuit from 'assets/images/wx_quick_unsuit.gif'",
+			"importName": "quickUnsuit",
+			"imageName": "wx_quick_unsuit.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideOne from 'assets/images/wx_guide_unsuit.png'",
+			"importName": "guideOne",
+			"imageName": "wx_guide_unsuit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideTwo from 'assets/images/wx_guide_suit.png'",
+			"importName": "guideTwo",
+			"imageName": "wx_guide_suit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideOneCtx from 'assets/images/wx_guide_unsuit_ctx.png'",
+			"importName": "guideOneCtx",
+			"imageName": "wx_guide_unsuit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideTwoCtx from 'assets/images/wx_guide_suit_ctx.png'",
+			"importName": "guideTwoCtx",
+			"imageName": "wx_guide_suit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import nextIcon from 'assets/images/wx_next_white.png'",
+			"importName": "nextIcon",
+			"imageName": "wx_next_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import tipIcon from 'assets/images/wx_tops_blue.png'",
+			"importName": "tipIcon",
+			"imageName": "wx_tops_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideBg from 'assets/images/wx_quick_guide_bg.png'",
+			"importName": "guideBg",
+			"imageName": "wx_quick_guide_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideBgBtn from 'assets/images/wx_quick_guide_bg_btn.png'",
+			"importName": "guideBgBtn",
+			"imageName": "wx_quick_guide_bg_btn.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Guide.vue",
+			"lineString": "import guideBgHead from 'assets/images/wx_quick_guide_bg_head.png'",
+			"importName": "guideBgHead",
+			"imageName": "wx_quick_guide_bg_head.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/HeaderBar.vue",
+			"lineString": "import closeWhite from 'assets/images/wx_back_white.png'",
+			"importName": "closeWhite",
+			"imageName": "wx_back_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/HeaderBar.vue",
+			"lineString": "import quickReply from 'assets/images/wx_quick_reply.png'",
+			"importName": "quickReply",
+			"imageName": "wx_quick_reply.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/HeaderBar.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Loadings.vue",
+			"lineString": "import nonetwork from 'assets/images/wx_no_network.png'",
+			"importName": "nonetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Loadings.vue",
+			"lineString": "import loadingfail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingfail",
+			"imageName": "wx_loading_fail.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_cannot_see.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_cannot_see.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Resumes.vue",
+			"lineString": "import quickBg from 'assets/images/wx_quick_bg.png'",
+			"importName": "quickBg",
+			"imageName": "wx_quick_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Resumes.vue",
+			"lineString": "import goldVip from 'assets/images/wx_gold_vip.png' // 金领icon",
+			"importName": "goldVip",
+			"imageName": "wx_gold_vip.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Resumes.vue",
+			"lineString": "import resumeNoSeen from 'assets/images/wx_resume_cannot_see.png'",
+			"importName": "resumeNoSeen",
+			"imageName": "wx_resume_cannot_see.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Resumes.vue",
+			"lineString": "import quickTd from 'assets/images/wx_quick_td.png'",
+			"importName": "quickTd",
+			"imageName": "wx_quick_td.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Resumes.vue",
+			"lineString": "import quickChat from 'assets/images/wx_quick_chat_bubble.png'",
+			"importName": "quickChat",
+			"imageName": "wx_quick_chat_bubble.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/Resumes.vue",
+			"lineString": "import onlineIcon from 'assets/images/wx_user_online.png'",
+			"importName": "onlineIcon",
+			"imageName": "wx_user_online.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/ResumesCopy.vue",
+			"lineString": "import quickBg from 'assets/images/wx_quick_bg.png'",
+			"importName": "quickBg",
+			"imageName": "wx_quick_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply/components/SeriallyRemind.vue",
+			"lineString": "import nosuit from 'assets/images/wx_quick_nosult.png'",
+			"importName": "nosuit",
+			"imageName": "wx_quick_nosult.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply-setting/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_hide.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-reply-setting/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueInfo.vue",
+			"lineString": "import residuebg from 'assets/images/wx_residue_bg.png'",
+			"importName": "residuebg",
+			"imageName": "wx_residue_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueInfo.vue",
+			"lineString": "import bigEye from 'assets/images/wx_quick_bigeye.png'",
+			"importName": "bigEye",
+			"imageName": "wx_quick_bigeye.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import nonetwork from 'assets/images/wx_no_network.png'",
+			"importName": "nonetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import loadingfail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingfail",
+			"imageName": "wx_loading_fail.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_cannot_see.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_cannot_see.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-quick-residue/components/ResidueStatus.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusBg from 'assets/images/wx_release_job_bonus_bg.png'",
+			"importName": "releaseJobBonusBg",
+			"imageName": "wx_release_job_bonus_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import newYearGiftMainBack from 'assets/images/wx_new_year_gift_main_back.png'",
+			"importName": "newYearGiftMainBack",
+			"imageName": "wx_new_year_gift_main_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusTitle from 'assets/images/wx_release_job_bonus_title.png'",
+			"importName": "releaseJobBonusTitle",
+			"imageName": "wx_release_job_bonus_title.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusSubtitleRight from 'assets/images/wx_release_job_bonus_subtitle_right.png'",
+			"importName": "releaseJobBonusSubtitleRight",
+			"imageName": "wx_release_job_bonus_subtitle_right.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusSubtitleLeft from 'assets/images/wx_release_job_bonus_subtitle_left.png'",
+			"importName": "releaseJobBonusSubtitleLeft",
+			"imageName": "wx_release_job_bonus_subtitle_left.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusReleaseButton from 'assets/images/wx_release_job_bonus_release_button.gif'",
+			"importName": "releaseJobBonusReleaseButton",
+			"imageName": "wx_release_job_bonus_release_button.gif"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusIconExposure from 'assets/images/wx_release_job_bonus_icon_exposure.png'",
+			"importName": "releaseJobBonusIconExposure",
+			"imageName": "wx_release_job_bonus_icon_exposure.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusIconDeliver from 'assets/images/wx_release_job_bonus_icon_deliver.png'",
+			"importName": "releaseJobBonusIconDeliver",
+			"imageName": "wx_release_job_bonus_icon_deliver.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusIconRanking from 'assets/images/wx_release_job_bonus_icon_ranking.png'",
+			"importName": "releaseJobBonusIconRanking",
+			"imageName": "wx_release_job_bonus_icon_ranking.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import popupCloseIcon from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "popupCloseIcon",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-release-job-sub/components/FirstReleaseJobBonus.vue",
+			"lineString": "import releaseJobBonusWarnIcon from 'assets/images/wx_release_job_bonus_warn_icon.png'",
+			"importName": "releaseJobBonusWarnIcon",
+			"imageName": "wx_release_job_bonus_warn_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-feedback/components/BottomHandle.vue",
+			"lineString": "import rejectSamllIcon from 'assets/images/wx_reject_samll_icon.png'",
+			"importName": "rejectSamllIcon",
+			"imageName": "wx_reject_samll_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-feedback/components/BottomHandle.vue",
+			"lineString": "import successSmallIcon from 'assets/images/wx_success_small_icon.png'",
+			"importName": "successSmallIcon",
+			"imageName": "wx_success_small_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-inbox/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-inbox/components/SizerOption.vue",
+			"lineString": "import indexFilter from 'assets/images/wx_index_filter.png'",
+			"importName": "indexFilter",
+			"imageName": "wx_index_filter.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/BottomHandle.vue",
+			"lineString": "import avatarStaff from 'assets/images/wx_default_avatar_b.png'",
+			"importName": "avatarStaff",
+			"imageName": "wx_default_avatar_b.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/EmptyOrLoad.vue",
+			"lineString": "import emptyIcon from 'assets/images/wx_new_empty.png'",
+			"importName": "emptyIcon",
+			"imageName": "wx_new_empty.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/EmptyOrLoad.vue",
+			"lineString": "import netErrorIconB from 'assets/images/wx_new_net_error.png'",
+			"importName": "netErrorIconB",
+			"imageName": "wx_new_net_error.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/EmptyOrLoad.vue",
+			"lineString": "import netErrorIconAli from 'assets/images/wx_new_net_error_ali.png'",
+			"importName": "netErrorIconAli",
+			"imageName": "wx_new_net_error_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/ErrorResume.vue",
+			"lineString": "import noneStatus from 'assets/images/wx_resume_hide.png'",
+			"importName": "noneStatus",
+			"imageName": "wx_resume_hide.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/GreetingMessage.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/GreetingMessage.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/HeaderBar.vue",
+			"lineString": "import backWhite from 'assets/images/wx_black_back.png'",
+			"importName": "backWhite",
+			"imageName": "wx_black_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/HeaderBar.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/HeaderBar.vue",
+			"lineString": "import greetingIcon from '../assets/wx_greeting_icon.png'",
+			"importName": "greetingIcon",
+			"imageName": "wx_greeting_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/Loadings.vue",
+			"lineString": "import emptyIcon from 'assets/images/wx_new_empty.png'",
+			"importName": "emptyIcon",
+			"imageName": "wx_new_empty.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_hide.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_hide.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-package-reply/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-search/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-shared-list/components/ISharedResumeCard.vue",
+			"lineString": "import resumeSharedListShareIcon from 'assets/images/wx_resume_share_icon.png'",
+			"importName": "resumeSharedListShareIcon",
+			"imageName": "wx_resume_share_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-shared-list/components/ISharedResumeCard.vue",
+			"lineString": "import workIcon from 'assets/images/wx_resume_work_icon.png'",
+			"importName": "workIcon",
+			"imageName": "wx_resume_work_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-resume-shared-list/components/ReceivedShare.vue",
+			"lineString": "import arrowRightGray from 'assets/images/wx_arrow_right_gray.png'",
+			"importName": "arrowRightGray",
+			"imageName": "wx_arrow_right_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-jobfair/components/Mail.vue",
+			"lineString": "import closeIcon from '../images/close-icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close-icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-landing/App.vue",
+			"lineString": "import headerBg from './images/header-bg.png'",
+			"importName": "headerBg",
+			"imageName": "header-bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-landing/App.vue",
+			"lineString": "import back from './images/back.png'",
+			"importName": "back",
+			"imageName": "back.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-landing/components/Contact.vue",
+			"lineString": "import phoneIcon from '../images/phone-icon.png'",
+			"importName": "phoneIcon",
+			"imageName": "phone-icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-landing/components/Contact.vue",
+			"lineString": "import closeIcon from '../images/close-icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close-icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-landing/components/Profile.vue",
+			"lineString": "import headerBg from '../images/profile-header-bg.png'",
+			"importName": "headerBg",
+			"imageName": "profile-header-bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-school-landing/components/Profile.vue",
+			"lineString": "import buttonBg from '../images/button-bg.png'",
+			"importName": "buttonBg",
+			"imageName": "button-bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-share-magnet/App.vue",
+			"lineString": "import zpinIcon from 'assets/images/wx_aboutus_c_logo.png'",
+			"importName": "zpinIcon",
+			"imageName": "wx_aboutus_c_logo.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-share-magnet/App.vue",
+			"lineString": "import qrcodeIcon from 'assets/images/wx_qrcode_new.png'",
+			"importName": "qrcodeIcon",
+			"imageName": "wx_qrcode_new.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-switch-login-point/App.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_bottom.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_bottom.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-switch-login-point/App.vue",
+			"lineString": "import selectedIcon from 'assets/images/wx_login_point_selected.png'",
+			"importName": "selectedIcon",
+			"imageName": "wx_login_point_selected.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-switch-login-point/App.vue",
+			"lineString": "import officeIcon from 'assets/images/wx_login_point_office_img.png'",
+			"importName": "officeIcon",
+			"imageName": "wx_login_point_office_img.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-filter/components/SingleOption.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_bottom.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_bottom.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-filter-new/components/SingleOption.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_down_gray2.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_down_gray2.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search/components/JobItem.vue",
+			"lineString": "import arrowRght from 'assets/images/wx_arrow_right_gray.png'",
+			"importName": "arrowRght",
+			"imageName": "wx_arrow_right_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search/components/SearchHeader.vue",
+			"lineString": "import arrowDown from 'assets/images/wx_arrow_down.png'",
+			"importName": "arrowDown",
+			"imageName": "wx_arrow_down.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search/components/SearchHeader.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search/components/SearchHistory.vue",
+			"lineString": "import deleteIcon from 'assets/images/wx_delete_icon.png'",
+			"importName": "deleteIcon",
+			"imageName": "wx_delete_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search/components/SearchHistory.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_down_gray.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_down_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search/components/SearchHot.vue",
+			"lineString": "import deleteIcon from 'assets/images/wx_delete_icon.png'",
+			"importName": "deleteIcon",
+			"imageName": "wx_delete_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search-new/components/JobItem.vue",
+			"lineString": "import arrowRght from 'assets/images/wx_arrow_right_gray.png'",
+			"importName": "arrowRght",
+			"imageName": "wx_arrow_right_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search-new/components/SearchHeader.vue",
+			"lineString": "import arrowDown from 'assets/images/wx_arrow_down.png'",
+			"importName": "arrowDown",
+			"imageName": "wx_arrow_down.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search-new/components/SearchHeader.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search-new/components/SearchHistory.vue",
+			"lineString": "import deleteIcon from 'assets/images/wx_delete_icon.png'",
+			"importName": "deleteIcon",
+			"imageName": "wx_delete_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search-new/components/SearchHistory.vue",
+			"lineString": "import arrowBottom from 'assets/images/wx_arrow_down_gray.png'",
+			"importName": "arrowBottom",
+			"imageName": "wx_arrow_down_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-talent-search-new/components/SearchHot.vue",
+			"lineString": "import deleteIcon from 'assets/images/wx_delete_icon.png'",
+			"importName": "deleteIcon",
+			"imageName": "wx_delete_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-teamwork-invite/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-teamwork-invite/components/Empty.vue",
+			"lineString": "import listEmpty from 'assets/images/wx_none_coopetate.png'",
+			"importName": "listEmpty",
+			"imageName": "wx_none_coopetate.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-teamwork-invite/components/SearchHeader.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/bapp-teamwork-invite/components/SearchHeader.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_black.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/certification-progress/App.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/certification-progress/components/Empty.vue",
+			"lineString": "import noNetwork from 'assets/images/wx_no_network.png'",
+			"importName": "noNetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/certification-progress/components/Empty.vue",
+			"lineString": "import loadingFail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingFail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/certification-progress/components/PersonalFail.vue",
+			"lineString": "import failStatus from 'assets/images/wx_fail_status_new.png' // 认证失败",
+			"importName": "failStatus",
+			"imageName": "wx_fail_status_new.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/company-certification-type/App.vue",
+			"lineString": "import selectedIcon from 'assets/images/wx_login_point_selected.png'",
+			"importName": "selectedIcon",
+			"imageName": "wx_login_point_selected.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/App.vue",
+			"lineString": "import closePage from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closePage",
+			"imageName": "wx_close_icon_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/components/InfoForm.vue",
+			"lineString": "import avatarUpload from 'assets/images/wx_avatar_upload_blue.png'",
+			"importName": "avatarUpload",
+			"imageName": "wx_avatar_upload_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/components/InfoForm.vue",
+			"lineString": "import tipsGray from 'assets/images/wx_tips_gray.png'",
+			"importName": "tipsGray",
+			"imageName": "wx_tips_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/components/InfoForm.vue",
+			"lineString": "import arrowRight from 'assets/images/wx_arrow_right.png'",
+			"importName": "arrowRight",
+			"imageName": "wx_arrow_right.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/components/InfoForm.vue",
+			"lineString": "import arrowRight2 from 'assets/images/wx_arrow_right_gray.png'",
+			"importName": "arrowRight2",
+			"imageName": "wx_arrow_right_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/components/InfoForm.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/complete-personal-info/components/InfoForm.vue",
+			"lineString": "import avatarNotice from 'assets/images/wx_avatar_notice.png'",
+			"importName": "avatarNotice",
+			"imageName": "wx_avatar_notice.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/App.vue",
+			"lineString": "import modifyBgImage from './assets/images/modify-bg.png'",
+			"importName": "modifyBgImage",
+			"imageName": "modify-bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/App.vue",
+			"lineString": "import cancelImage from './assets/images/cancel-icon.png'",
+			"importName": "cancelImage",
+			"imageName": "cancel-icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/App.vue",
+			"lineString": "import changeImage from './assets/images/change-img.png'",
+			"importName": "changeImage",
+			"imageName": "change-img.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/ApplyForm.vue",
+			"lineString": "import selectImage from '../assets/images/select.png'",
+			"importName": "selectImage",
+			"imageName": "select.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/ApplyForm.vue",
+			"lineString": "import switchOpenImage from '../assets/images/switch-open.png'",
+			"importName": "switchOpenImage",
+			"imageName": "switch-open.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/ApplyForm.vue",
+			"lineString": "import switchCloseImage from '../assets/images/switch-close.png'",
+			"importName": "switchCloseImage",
+			"imageName": "switch-close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/AuditInformation.vue",
+			"lineString": "import reviewImage from '../assets/images/review-icon.png'",
+			"importName": "reviewImage",
+			"imageName": "review-icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/AuditInformation.vue",
+			"lineString": "import wrongImage from '../assets/images/wrong-icon.png'",
+			"importName": "wrongImage",
+			"imageName": "wrong-icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import bgBasicImage from '../assets/images/bg-basic.png'",
+			"importName": "bgBasicImage",
+			"imageName": "bg-basic.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import bgLuxuryImage from '../assets/images/bg-luxury.png'",
+			"importName": "bgLuxuryImage",
+			"imageName": "bg-luxury.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import bgSupremeImage from '../assets/images/bg-supreme.png'",
+			"importName": "bgSupremeImage",
+			"imageName": "bg-supreme.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import timeBasicImage from '../assets/images/time-basic.png'",
+			"importName": "timeBasicImage",
+			"imageName": "time-basic.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import timeLuxuryImage from '../assets/images/time-luxury.png'",
+			"importName": "timeLuxuryImage",
+			"imageName": "time-luxury.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import timeSupremeImage from '../assets/images/time-supreme.png'",
+			"importName": "timeSupremeImage",
+			"imageName": "time-supreme.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import timeBgBaiscImage from '../assets/images/time-bg-basic.png'",
+			"importName": "timeBgBaiscImage",
+			"imageName": "time-bg-basic.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import timeBgLuxuryImage from '../assets/images/time-bg-luxury.png'",
+			"importName": "timeBgLuxuryImage",
+			"imageName": "time-bg-luxury.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/BoughtPackage.vue",
+			"lineString": "import timeBgSupremeImage from '../assets/images/time-bg-supreme.png'",
+			"importName": "timeBgSupremeImage",
+			"imageName": "time-bg-supreme.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/CancelLiveReason.vue",
+			"lineString": "import addImage from '../assets/images/add.png'",
+			"importName": "addImage",
+			"imageName": "add.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/CancelLiveReason.vue",
+			"lineString": "import checkImage from '../assets/images/no-check.png'",
+			"importName": "checkImage",
+			"imageName": "no-check.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/CancelLiveReason.vue",
+			"lineString": "import checkedImage from '../assets/images/checked.png'",
+			"importName": "checkedImage",
+			"imageName": "checked.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/CancelLiveReason.vue",
+			"lineString": "import blueImage from '../assets/images/btn-bg.png'",
+			"importName": "blueImage",
+			"imageName": "btn-bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/CancelLiveReason.vue",
+			"lineString": "import closeImage from '../assets/images/close.png'",
+			"importName": "closeImage",
+			"imageName": "close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/LivePackage.vue",
+			"lineString": "import checkedImage from '../assets/images/package-check.png'",
+			"importName": "checkedImage",
+			"imageName": "package-check.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/LivePackage.vue",
+			"lineString": "import blueImage from '../assets/images/btn-bg.png'",
+			"importName": "blueImage",
+			"imageName": "btn-bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/LivePackage.vue",
+			"lineString": "import closeImage from '../assets/images/close.png'",
+			"importName": "closeImage",
+			"imageName": "close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/LivePackage.vue",
+			"lineString": "import infoImage from '../assets/images/info.png'",
+			"importName": "infoImage",
+			"imageName": "info.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/LivePackage.vue",
+			"lineString": "import loadingImage from '../assets/images/btn-loading.gif'",
+			"importName": "loadingImage",
+			"imageName": "btn-loading.gif"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/Required.vue",
+			"lineString": "import requiredImage from '../assets/images/required-icon.png'",
+			"importName": "requiredImage",
+			"imageName": "required-icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/live-apply/components/UploadCover.vue",
+			"lineString": "import addImage from '../assets/images/add-bg.png'",
+			"importName": "addImage",
+			"imageName": "add-bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/login/components/OtherLogin.vue",
+			"lineString": "import wechatLogin from 'assets/images/wx_login_wechat_d.png'",
+			"importName": "wechatLogin",
+			"imageName": "wx_login_wechat_d.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/login/components/OtherLogin.vue",
+			"lineString": "import pwdLogin from 'assets/images/wx_login_pwd_d.png'",
+			"importName": "pwdLogin",
+			"imageName": "wx_login_pwd_d.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/login/components/OtherLogin.vue",
+			"lineString": "import appleidLogin from 'assets/images/wx_login_apple_d.png'",
+			"importName": "appleidLogin",
+			"imageName": "wx_login_apple_d.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/login/components/OtherLogin.vue",
+			"lineString": "import agreeIcon from 'assets/images/wx_agree_blue.png'",
+			"importName": "agreeIcon",
+			"imageName": "wx_agree_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/login/components/OtherLogin.vue",
+			"lineString": "import agreeIconOrange from 'assets/images/wx_agree_orange.png'",
+			"importName": "agreeIconOrange",
+			"imageName": "wx_agree_orange.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/login/components/Supervise.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_new_pay_modal_close.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_new_pay_modal_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/org-name/App.vue",
+			"lineString": "import businessLicense from 'assets/images/wx_business_license.png'",
+			"importName": "businessLicense",
+			"imageName": "wx_business_license.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/personal-verify-result/App.vue",
+			"lineString": "import moreCircle from 'assets/images/wx_more_circle.png'",
+			"importName": "moreCircle",
+			"imageName": "wx_more_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/personal-verify-result/components/CreditFail.vue",
+			"lineString": "import failStatusAli from 'assets/images/wx_fail_status_ali.png' // 认证失败",
+			"importName": "failStatusAli",
+			"imageName": "wx_fail_status_ali.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/personal-verify-result/components/CreditFail.vue",
+			"lineString": "import failStatusNew from 'assets/images/wx_fail_status_new.png' // 认证失败",
+			"importName": "failStatusNew",
+			"imageName": "wx_fail_status_new.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/personal-verify-result/components/Empty.vue",
+			"lineString": "import noNetwork from 'assets/images/wx_no_network.png'",
+			"importName": "noNetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/personal-verify-result/components/Empty.vue",
+			"lineString": "import loadingFail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingFail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/personal-verify-result/components/UnbindMobile.vue",
+			"lineString": "import switchOrgBg from 'assets/images/wx_personal_verify_bg.png'",
+			"importName": "switchOrgBg",
+			"imageName": "wx_personal_verify_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/App.vue",
+			"lineString": "import closeWhite from 'assets/images/wx_back_white.png'",
+			"importName": "closeWhite",
+			"imageName": "wx_back_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/ErrorResume.vue",
+			"lineString": "import noneStatus from '../assets/wx_none.png'",
+			"importName": "noneStatus",
+			"imageName": "wx_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideOne from 'assets/images/wx_guide_unsuit.png'",
+			"importName": "guideOne",
+			"imageName": "wx_guide_unsuit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideTwo from 'assets/images/wx_guide_suit.png'",
+			"importName": "guideTwo",
+			"imageName": "wx_guide_suit.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideOneCtx from 'assets/images/wx_guide_unsuit_ctx.png'",
+			"importName": "guideOneCtx",
+			"imageName": "wx_guide_unsuit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideTwoCtx from 'assets/images/wx_guide_suit_ctx.png'",
+			"importName": "guideTwoCtx",
+			"imageName": "wx_guide_suit_ctx.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import nextIcon from 'assets/images/wx_next_white.png'",
+			"importName": "nextIcon",
+			"imageName": "wx_next_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import tipIcon from 'assets/images/wx_tops_blue.png'",
+			"importName": "tipIcon",
+			"imageName": "wx_tops_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideBg from 'assets/images/wx_quick_guide_bg.png'",
+			"importName": "guideBg",
+			"imageName": "wx_quick_guide_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideBgBtn from 'assets/images/wx_quick_guide_bg_btn.png'",
+			"importName": "guideBgBtn",
+			"imageName": "wx_quick_guide_bg_btn.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Guide.vue",
+			"lineString": "import guideBgHead from 'assets/images/wx_quick_guide_bg_head.png'",
+			"importName": "guideBgHead",
+			"imageName": "wx_quick_guide_bg_head.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/HeaderBar.vue",
+			"lineString": "import backWhite from 'assets/images/wx_back_white.png'",
+			"importName": "backWhite",
+			"imageName": "wx_back_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/HeaderBar.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_black.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_black.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/HeaderBar.vue",
+			"lineString": "import replyMore from '../assets/wx_more.png'",
+			"importName": "replyMore",
+			"imageName": "wx_more.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Instructions.vue",
+			"lineString": "import guideDisable from '../assets/wx_guide_disable.png'",
+			"importName": "guideDisable",
+			"imageName": "wx_guide_disable.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Instructions.vue",
+			"lineString": "import guideSuit from '../assets/wx_reply_guide_chat.png'",
+			"importName": "guideSuit",
+			"imageName": "wx_reply_guide_chat.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Loadings.vue",
+			"lineString": "import nonetwork from 'assets/images/wx_no_network.png'",
+			"importName": "nonetwork",
+			"imageName": "wx_no_network.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Loadings.vue",
+			"lineString": "import loadingfail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingfail",
+			"imageName": "wx_loading_fail.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Loadings.vue",
+			"lineString": "import resumeNoSeenIcon from 'assets/images/wx_resume_cannot_see.png'",
+			"importName": "resumeNoSeenIcon",
+			"imageName": "wx_resume_cannot_see.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Loadings.vue",
+			"lineString": "import goodIcon from 'assets/images/wx_quick_good.png'",
+			"importName": "goodIcon",
+			"imageName": "wx_quick_good.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import quickBg from 'assets/images/wx_quick_bg.png'",
+			"importName": "quickBg",
+			"imageName": "wx_quick_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import goldVip from 'assets/images/wx_gold_vip.png'",
+			"importName": "goldVip",
+			"imageName": "wx_gold_vip.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import activitySchool from 'assets/images/wx_activity_school.png'",
+			"importName": "activitySchool",
+			"imageName": "wx_activity_school.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import resumeNoSeen from 'assets/images/wx_resume_cannot_see.png'",
+			"importName": "resumeNoSeen",
+			"imageName": "wx_resume_cannot_see.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import onlineIcon from '../assets/wx_online.png'",
+			"importName": "onlineIcon",
+			"imageName": "wx_online.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import topIcon from '../assets/wx_quick_top.png'",
+			"importName": "topIcon",
+			"imageName": "wx_quick_top.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/quick-reply/components/Resumes.vue",
+			"lineString": "import bottomShade from '../assets/wx_bottom_shade.png'",
+			"importName": "bottomShade",
+			"imageName": "wx_bottom_shade.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/real-name-verify/App.vue",
+			"lineString": "import moreCircle from 'assets/images/wx_more_circle.png'",
+			"importName": "moreCircle",
+			"imageName": "wx_more_circle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/real-name-verify/App.vue",
+			"lineString": "import banner from './assets/wx-banner.png'",
+			"importName": "banner",
+			"imageName": "wx-banner.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/real-name-verify/components/Popup.vue",
+			"lineString": "import processImage from '../assets/wx_c_gift.png'",
+			"importName": "processImage",
+			"imageName": "wx_c_gift.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/real-name-verify/components/Popup.vue",
+			"lineString": "import closeIcon from '../assets/close_icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/recharge-record/App.vue",
+			"lineString": "import assetsMagnetIcon from 'assets/images/wx_assets_magnet_icon.png'",
+			"importName": "assetsMagnetIcon",
+			"imageName": "wx_assets_magnet_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/resume/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingLogo from 'assets/images/wx_resume_handling_logo.png'",
+			"importName": "resumeHandlingLogo",
+			"imageName": "wx_resume_handling_logo.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/resume/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingIcon from 'assets/images/wx_resume_handling_icon.png'",
+			"importName": "resumeHandlingIcon",
+			"imageName": "wx_resume_handling_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/resume/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingPopupBanner from 'assets/images/wx_resume_handling_popup_banner.png'",
+			"importName": "resumeHandlingPopupBanner",
+			"imageName": "wx_resume_handling_popup_banner.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/resume/components/primary/HandlingResumeTip.vue",
+			"lineString": "import resumeHandlingPopupClose from 'assets/images/wx_resume_handling_popup_close.png'",
+			"importName": "resumeHandlingPopupClose",
+			"imageName": "wx_resume_handling_popup_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/resume/components/primary/HandlingResumeTip.vue",
+			"lineString": "import arrowRightBlue from 'assets/images/wx_arrow_right_blue.png'",
+			"importName": "arrowRightBlue",
+			"imageName": "wx_arrow_right_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/resume-collection/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/switch-org/components/LeaveOrg.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_modal.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_modal.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/switch-org/components/OrgList.vue",
+			"lineString": "import switchOrgBg from 'assets/images/wx_switch_org_bg.png'",
+			"importName": "switchOrgBg",
+			"imageName": "wx_switch_org_bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/user-assets/components/Assign.vue",
+			"lineString": "import noticeIcon from 'assets/images/wx_notice_icon.png'",
+			"importName": "noticeIcon",
+			"imageName": "wx_notice_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/user-assets/components/Assign.vue",
+			"lineString": "import arrowRight from 'assets/images/wx_arrow_right_blue.png'",
+			"importName": "arrowRight",
+			"imageName": "wx_arrow_right_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/vip-center/App.vue",
+			"lineString": "import backWhite from 'assets/images/wx_back_white.png'",
+			"importName": "backWhite",
+			"imageName": "wx_back_white.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/widget/components/position/components/PopupRefreshType.vue",
+			"lineString": "import loadingFail from 'assets/images/wx_loading_fail.png'",
+			"importName": "loadingFail",
+			"imageName": "wx_loading_fail.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/widget/components/zp-login/ZpLogin.vue",
+			"lineString": "import clearCircle from './images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/zlb-explain/App.vue",
+			"lineString": "import money from 'assets/consumption/wx_zlb_yellow_icon.png'",
+			"importName": "money",
+			"imageName": "wx_zlb_yellow_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/pages/zlb-explain/App.vue",
+			"lineString": "import refresh from 'assets/consumption/wx_refresh_blue_icon.png'",
+			"importName": "refresh",
+			"imageName": "wx_refresh_blue_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/PopupAuthorityInfo.vue",
+			"lineString": "import clientIcon from 'assets/images/wx_client_icon.png'",
+			"importName": "clientIcon",
+			"imageName": "wx_client_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/certification/ConfirmPopu.vue",
+			"lineString": "import avatarStaff from 'assets/images/wx_default_avatar_b.png'",
+			"importName": "avatarStaff",
+			"imageName": "wx_default_avatar_b.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/certification/SearchHeader.vue",
+			"lineString": "import clearCircle from 'assets/images/wx_clear_circle.png'",
+			"importName": "clearCircle",
+			"imageName": "wx_clear_circle.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/certification/SearchHeader.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_gray_icon.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_gray_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/chat-privilege/ChatPrivilege.vue",
+			"lineString": "import imagesChatPopup from './assets/wx-price-bg.png'",
+			"importName": "imagesChatPopup",
+			"imageName": "wx-price-bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/chat-privilege/ChatPrivilege.vue",
+			"lineString": "import imagesPriceWarp1 from './assets/wx-price-warp1.png'",
+			"importName": "imagesPriceWarp1",
+			"imageName": "wx-price-warp1.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/chat-privilege/ChatPrivilege.vue",
+			"lineString": "import imagesPriceWarp2 from './assets/wx-price-warp2.png'",
+			"importName": "imagesPriceWarp2",
+			"imageName": "wx-price-warp2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/chat-privilege/ChatPrivilege.vue",
+			"lineString": "import imagesPriceBg from './assets/wx_chat_popup_v2.png'",
+			"importName": "imagesPriceBg",
+			"imageName": "wx_chat_popup_v2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/chat-privilege/ChatPrivilege.vue",
+			"lineString": "import imagesZhiIcon from './assets/wx_zhi_icon.png'",
+			"importName": "imagesZhiIcon",
+			"imageName": "wx_zhi_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/chat-privilege/ChatPrivilege.vue",
+			"lineString": "import closeIcon from './assets/close_icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/hearten-active/HeartenActiveCard.vue",
+			"lineString": "import closeKnowledge from 'assets/images/wx_close_knowledge.png'",
+			"importName": "closeKnowledge",
+			"imageName": "wx_close_knowledge.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/hearten-active/HeartenActiveCard.vue",
+			"lineString": "import arrowOrange from 'assets/images/wx_arrow_orange.png'",
+			"importName": "arrowOrange",
+			"imageName": "wx_arrow_orange.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/hearten-active/HeartenActiveCard.vue",
+			"lineString": "import knowledge from 'assets/images/wx_knowledge.png'",
+			"importName": "knowledge",
+			"imageName": "wx_knowledge.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/Empty.vue",
+			"lineString": "import noCommentB from 'assets/images/wx_empty_interview.png'",
+			"importName": "noCommentB",
+			"imageName": "wx_empty_interview.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/Empty.vue",
+			"lineString": "import noCommentAli from 'assets/images/wx_empty_interview_ali.png'",
+			"importName": "noCommentAli",
+			"imageName": "wx_empty_interview_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/InterviewCard.vue",
+			"lineString": "import interviewAudio from 'assets/images/wx_interview_audio.png'",
+			"importName": "interviewAudio",
+			"imageName": "wx_interview_audio.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/InterviewCard.vue",
+			"lineString": "import interviewSite from 'assets/images/wx_interview_site.png'",
+			"importName": "interviewSite",
+			"imageName": "wx_interview_site.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/InterviewCard.vue",
+			"lineString": "import interviewVideo from 'assets/images/wx_interview_video.png'",
+			"importName": "interviewVideo",
+			"imageName": "wx_interview_video.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/InterviewHistoryCard.vue",
+			"lineString": "import arrowRight from 'assets/images/wx_arrow_right.png'",
+			"importName": "arrowRight",
+			"imageName": "wx_arrow_right.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/InterviewJoinAffirm.vue",
+			"lineString": "import absentIcon from './assets/images/wx_interview_absent.png'",
+			"importName": "absentIcon",
+			"imageName": "wx_interview_absent.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/InterviewJoinAffirm.vue",
+			"lineString": "import joinIcon from './assets/images/wx_interview_join.png'",
+			"importName": "joinIcon",
+			"imageName": "wx_interview_join.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewBappInterviewCard.vue",
+			"lineString": "import interviewAudio from 'assets/images/wx_interview_audio.png'",
+			"importName": "interviewAudio",
+			"imageName": "wx_interview_audio.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewBappInterviewCard.vue",
+			"lineString": "import interviewSite from 'assets/images/wx_interview_site.png'",
+			"importName": "interviewSite",
+			"imageName": "wx_interview_site.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewBappInterviewCard.vue",
+			"lineString": "import interviewVideo from 'assets/images/wx_interview_video.png'",
+			"importName": "interviewVideo",
+			"imageName": "wx_interview_video.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewBappInterviewHistoryCard.vue",
+			"lineString": "import arrowRight from 'assets/images/wx_arrow_right.png'",
+			"importName": "arrowRight",
+			"imageName": "wx_arrow_right.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewBappInterviewJoinAffirm.vue",
+			"lineString": "import interviewarrive from 'components/interview/assets/images/wx_interview_arrive_v2.png'",
+			"importName": "interviewarrive",
+			"imageName": "wx_interview_arrive_v2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewBappInterviewJoinAffirm.vue",
+			"lineString": "import interviewnoarrive from 'components/interview/assets/images/wx_interview_noarrive_v2.png'",
+			"importName": "interviewnoarrive",
+			"imageName": "wx_interview_noarrive_v2.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewInterviewCard.vue",
+			"lineString": "import interviewAudio from 'assets/images/wx_interview_audio.png'",
+			"importName": "interviewAudio",
+			"imageName": "wx_interview_audio.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewInterviewCard.vue",
+			"lineString": "import interviewSite from 'assets/images/wx_interview_site.png'",
+			"importName": "interviewSite",
+			"imageName": "wx_interview_site.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/NewInterviewCard.vue",
+			"lineString": "import interviewVideo from 'assets/images/wx_interview_video.png'",
+			"importName": "interviewVideo",
+			"imageName": "wx_interview_video.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/PopupNoneJoinReason.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_icon_gray.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_icon_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/PopupNoneJoinReason.vue",
+			"lineString": "import checkNo from 'assets/images/wx_greeting_check_no.png'",
+			"importName": "checkNo",
+			"imageName": "wx_greeting_check_no.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/PopupNoneJoinReason.vue",
+			"lineString": "import checkYes from 'assets/images/wx_greeting_check_yes.png'",
+			"importName": "checkYes",
+			"imageName": "wx_greeting_check_yes.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/interview/PopupNoneJoinReason.vue",
+			"lineString": "import checkYesAli from 'assets/images/wx_greeting_check_yes_ali.png'",
+			"importName": "checkYesAli",
+			"imageName": "wx_greeting_check_yes_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/CooperateHeader.vue",
+			"lineString": "import blackBack from 'assets/images/wx_black_back.png'",
+			"importName": "blackBack",
+			"imageName": "wx_black_back.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/CooperateHeader.vue",
+			"lineString": "import questionIcon from 'assets/images/question_icon.png'",
+			"importName": "questionIcon",
+			"imageName": "question_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/InviteCard.vue",
+			"lineString": "import bNoneGender from 'assets/avatar/wx_b_none_gender.jpg'",
+			"importName": "bNoneGender",
+			"imageName": "wx_b_none_gender.jpg"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/InviteCard.vue",
+			"lineString": "import uncheckedIcon from 'assets/images/wx_check_none.png'",
+			"importName": "uncheckedIcon",
+			"imageName": "wx_check_none.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/InviteCard.vue",
+			"lineString": "import inviteSelectIcon from './assets/wx_invite_select.png'",
+			"importName": "inviteSelectIcon",
+			"imageName": "wx_invite_select.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/InviteCard.vue",
+			"lineString": "import quiteGray from './assets/ic_quite_gray.png'",
+			"importName": "quiteGray",
+			"imageName": "ic_quite_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/Popup.vue",
+			"lineString": "import processImage from './assets/process_image_one.png'",
+			"importName": "processImage",
+			"imageName": "process_image_one.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-cooperate/Popup.vue",
+			"lineString": "import closeIcon from './assets/close_icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-select/JobSelect.vue",
+			"lineString": "import closeModal from 'assets/images/wx_close_icon_gray.png'",
+			"importName": "closeModal",
+			"imageName": "wx_close_icon_gray.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-select/components/JobCard.vue",
+			"lineString": "import cooperateIcon from 'assets/images/wx_cooperate_icon.png'",
+			"importName": "cooperateIcon",
+			"imageName": "wx_cooperate_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/OrgVideoItem.vue",
+			"lineString": "import videoClose from 'assets/images/wx_job_video_close.png'",
+			"importName": "videoClose",
+			"imageName": "wx_job_video_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/OrgVideoItem.vue",
+			"lineString": "import videoTranscoding from 'assets/job-video/wx_video_transcoding.png'",
+			"importName": "videoTranscoding",
+			"imageName": "wx_video_transcoding.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/OrgVideoItem.vue",
+			"lineString": "import videoSelect from 'assets/job-video/wx_video_select.png'",
+			"importName": "videoSelect",
+			"imageName": "wx_video_select.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/VideoItem.vue",
+			"lineString": "import videoClose from 'assets/images/wx_job_video_close.png'",
+			"importName": "videoClose",
+			"imageName": "wx_job_video_close.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/VideoItem.vue",
+			"lineString": "import videoPlay from 'assets/job-video/wx_video_play.png'",
+			"importName": "videoPlay",
+			"imageName": "wx_video_play.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/VideoList.vue",
+			"lineString": "import videoShoot from 'assets/job-video/wx_video_shoot.png'",
+			"importName": "videoShoot",
+			"imageName": "wx_video_shoot.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/job-video/VideoTemplateItem.vue",
+			"lineString": "import videoView from 'assets/job-video/wx_video_view.png'",
+			"importName": "videoView",
+			"imageName": "wx_video_view.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/lantern-share/LanternShare.vue",
+			"lineString": "import closeModal from 'assets/images/wx_close_icon_gray.png'",
+			"importName": "closeModal",
+			"imageName": "wx_close_icon_gray.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/lantern-share/LanternShare.vue",
+			"lineString": "import shareSuccess from './images/wx_lantern_share_success2.png'",
+			"importName": "shareSuccess",
+			"imageName": "wx_lantern_share_success2.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/lantern-share/LanternShare.vue",
+			"lineString": "import shareBg from './images/wx_lantern_share_bg.png'",
+			"importName": "shareBg",
+			"imageName": "wx_lantern_share_bg.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/lantern-share/LanternShare.vue",
+			"lineString": "import lanternBtnBg from './images/wx_lantern_btn_bg2.png'",
+			"importName": "lanternBtnBg",
+			"imageName": "wx_lantern_btn_bg2.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/layout/components/FooterCard.vue",
+			"lineString": "import listNone from 'assets/images/wx_list_none.png'",
+			"importName": "listNone",
+			"imageName": "wx_list_none.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/position/CooperationInfo.vue",
+			"lineString": "import iconMoreGo from './assets/wx_more_go_list.png'",
+			"importName": "iconMoreGo",
+			"imageName": "wx_more_go_list.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/position/PositionCard.vue",
+			"lineString": "import weilai from 'assets/images/wx_position_weilai.png'",
+			"importName": "weilai",
+			"imageName": "wx_position_weilai.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/position/PositionCard.vue",
+			"lineString": "import hasVideoIcon from 'assets/job-video/wx_has_video.png'",
+			"importName": "hasVideoIcon",
+			"imageName": "wx_has_video.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/quick-reply/FindTalents.vue",
+			"lineString": "import goodIconOrange from './assets/wx_quick_good_orange.png'",
+			"importName": "goodIconOrange",
+			"imageName": "wx_quick_good_orange.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/quick-reply/FindTalents.vue",
+			"lineString": "import goodIconBlue from './assets/wx_quick_good_blue.png'",
+			"importName": "goodIconBlue",
+			"imageName": "wx_quick_good_blue.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/DecideRemind.vue",
+			"lineString": "import closeIcon from 'assets/images/wx_close_white.png'",
+			"importName": "closeIcon",
+			"imageName": "wx_close_white.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/DecideRemind.vue",
+			"lineString": "import quickSend from 'assets/images/wx_quick_send.png'",
+			"importName": "quickSend",
+			"imageName": "wx_quick_send.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/InappositeFeedback.vue",
+			"lineString": "import feedback from 'assets/images/wx_feedback.png'",
+			"importName": "feedback",
+			"imageName": "wx_feedback.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/InappositeFeedback.vue",
+			"lineString": "import feedbackGuideDownGrey from 'assets/images/wx_feedback_guide_down_grey.png'",
+			"importName": "feedbackGuideDownGrey",
+			"imageName": "wx_feedback_guide_down_grey.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import informants from 'assets/images/wx_informants.png'",
+			"importName": "informants",
+			"imageName": "wx_informants.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import feedbackGuideDown from 'assets/images/wx_feedback_guide_down.png'",
+			"importName": "feedbackGuideDown",
+			"imageName": "wx_feedback_guide_down.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import feedbackGuideTop from 'assets/images/wx_feedback_guide_top.png'",
+			"importName": "feedbackGuideTop",
+			"imageName": "wx_feedback_guide_top.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import feedbackRightArrow from 'assets/images/wx_feedback_right_arrow.png'",
+			"importName": "feedbackRightArrow",
+			"imageName": "wx_feedback_right_arrow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/NewResumeCard.vue",
+			"lineString": "import schoolIcon from 'assets/images/wx_school_icon.png'",
+			"importName": "schoolIcon",
+			"imageName": "wx_school_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/NewResumeCard.vue",
+			"lineString": "import jdIcon from 'assets/resume-apply/wx_jd.png'",
+			"importName": "jdIcon",
+			"imageName": "wx_jd.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ResumeCardOldV2.vue",
+			"lineString": "import schoolIcon from 'assets/images/wx_school_icon.png'",
+			"importName": "schoolIcon",
+			"imageName": "wx_school_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ResumeCardOldV2.vue",
+			"lineString": "import jdIcon from 'assets/resume-apply/wx_jd.png'",
+			"importName": "jdIcon",
+			"imageName": "wx_jd.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ResumeCardV2.vue",
+			"lineString": "import schoolIcon from 'assets/images/wx_school_icon.png'",
+			"importName": "schoolIcon",
+			"imageName": "wx_school_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ResumeCardV2.vue",
+			"lineString": "import jdIcon from 'assets/resume-apply/wx_jd.png'",
+			"importName": "jdIcon",
+			"imageName": "wx_jd.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ResumeCardV2.vue",
+			"lineString": "import onlineIcon from 'assets/images/wx_resume_online_search.png'",
+			"importName": "onlineIcon",
+			"imageName": "wx_resume_online_search.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ToConnectBtn.vue",
+			"lineString": "import addIcon from 'assets/images/wx_hi.png'",
+			"importName": "addIcon",
+			"imageName": "wx_hi.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume/ToConnectBtn.vue",
+			"lineString": "import hino from 'assets/images/wx_hi_no.png'",
+			"importName": "hino",
+			"imageName": "wx_hi_no.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume-detail/GreetingMessage.vue",
+			"lineString": "import defaultFemale from 'assets/images/wx_default_female.png'",
+			"importName": "defaultFemale",
+			"imageName": "wx_default_female.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/resume-detail/GreetingMessage.vue",
+			"lineString": "import defaultMale from 'assets/images/wx_default_male.png'",
+			"importName": "defaultMale",
+			"imageName": "wx_default_male.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/school/OrderCard.vue",
+			"lineString": "import cardBg from './images/card-bg.png'",
+			"importName": "cardBg",
+			"imageName": "card-bg.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/school/Part.vue",
+			"lineString": "import arrow from './images/arrow.png'",
+			"importName": "arrow",
+			"imageName": "arrow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/school/Report.vue",
+			"lineString": "import arrow from './images/arrow.png'",
+			"importName": "arrow",
+			"imageName": "arrow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/share-modal/BrandActivity.vue",
+			"lineString": "import brandActivityImage from './images/wx_brand_activity.png'",
+			"importName": "brandActivityImage",
+			"imageName": "wx_brand_activity.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/share-modal/BrandActivity.vue",
+			"lineString": "import closeIcon from './images/close_icon.png'",
+			"importName": "closeIcon",
+			"imageName": "close_icon.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/share-modal/SearchHeader.vue",
+			"lineString": "import searchIcon from 'assets/images/wx_search_black.png'",
+			"importName": "searchIcon",
+			"imageName": "wx_search_black.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/share-modal/ShareModal.vue",
+			"lineString": "import shareFriendsCircle from 'assets/images/wx_share_friends_circle_blue.png' // 分享到朋友圈",
+			"importName": "shareFriendsCircle",
+			"imageName": "wx_share_friends_circle_blue.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/share-modal/ShareModal.vue",
+			"lineString": "import shareWei from 'assets/images/wx_resume_share_wei.png' // 分享到微信",
+			"importName": "shareWei",
+			"imageName": "wx_resume_share_wei.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/slider-bar/SliderBar.vue",
+			"lineString": "import sliderIconZ from 'assets/images/wx_slider_icon.png'",
+			"importName": "sliderIconZ",
+			"imageName": "wx_slider_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/slider-bar/SliderBar.vue",
+			"lineString": "import sliderIconAli from 'assets/images/wx_slider_icon_ali.png'",
+			"importName": "sliderIconAli",
+			"imageName": "wx_slider_icon_ali.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/v2/resume/InappositeFeedback.vue",
+			"lineString": "import feedback from 'assets/images/wx_feedback3.png'",
+			"importName": "feedback",
+			"imageName": "wx_feedback3.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/v2/resume/InappositeFeedback.vue",
+			"lineString": "import feedbackGuideDownGrey from 'assets/images/wx_feedback_guide_down_grey.png'",
+			"importName": "feedbackGuideDownGrey",
+			"imageName": "wx_feedback_guide_down_grey.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/v2/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import informants from 'assets/images/wx_informants.png'",
+			"importName": "informants",
+			"imageName": "wx_informants.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/v2/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import feedbackGuideDown from 'assets/images/wx_feedback_guide_down.png'",
+			"importName": "feedbackGuideDown",
+			"imageName": "wx_feedback_guide_down.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/v2/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import feedbackGuideTop from 'assets/images/wx_feedback_guide_top.png'",
+			"importName": "feedbackGuideTop",
+			"imageName": "wx_feedback_guide_top.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/v2/resume/InappositeFeedbackPopup.vue",
+			"lineString": "import feedbackRightArrow from 'assets/images/wx_feedback_right_arrow.png'",
+			"importName": "feedbackRightArrow",
+			"imageName": "wx_feedback_right_arrow.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/video-tips/SwindleTips.vue",
+			"lineString": "import swindleIcon from 'assets/images/wx_swindle_icon.png'",
+			"importName": "swindleIcon",
+			"imageName": "wx_swindle_icon.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/video-tips/SwindleTips.vue",
+			"lineString": "import closeKnowledge from 'assets/images/wx_swindle_close.png'",
+			"importName": "closeKnowledge",
+			"imageName": "wx_swindle_close.png"
+		}
+	],
+	[
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/video-tips/VideoTips.vue",
+			"lineString": "import knowledge from 'assets/images/wx_knowledge.png'",
+			"importName": "knowledge",
+			"imageName": "wx_knowledge.png"
+		},
+		{
+			"path": "/Users/xuxiao/b-mobile/weex-b-app/components/video-tips/VideoTips.vue",
+			"lineString": "import closeKnowledge from 'assets/images/wx_close_knowledge.png'",
+			"importName": "closeKnowledge",
+			"imageName": "wx_close_knowledge.png"
+		}
+	]
+]

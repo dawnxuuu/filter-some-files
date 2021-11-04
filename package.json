@@ -1,0 +1,14 @@
+{
+  "name": "filter-some-files",
+  "version": "1.0.0",
+  "description": "查找项目文件夹中没有用到的文件",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
