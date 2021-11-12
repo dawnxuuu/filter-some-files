@@ -5,6 +5,7 @@ const { isImage, isVue, isJS, getFileNameByPath, isJsComment, distinct } = requi
 const { getAllTypeFiles } = require('./src/get-all-type-files')
 const { resolveImportLine } = require('./src/resolve-all-import-line')
 const { resolveHtmlSrcLine } = require('./src/resolve-all-html-src-line')
+const { resolveVueUsedImportNames } = require('./src/resolve-vue-used-import-names')
 
 const {
   // 所有文件
@@ -44,6 +45,7 @@ fs.writeFileSync('./output/allVueFileImportList.json', JSON.stringify(allVueFile
     allImportedImagesFileName = distinct(allImportedImagesFileName)
     allImportedName = distinct(allImportedName)
   }
+  fs.writeFileSync('./output/allImportedName.json', JSON.stringify(allImportedName,"","\t"))
 
   
   // 引用过的图片文件名称
@@ -66,54 +68,11 @@ fs.writeFileSync('./output/allVueFileImportList.json', JSON.stringify(allVueFile
   fs.writeFileSync('./output/srcUnusedImportedName.json', JSON.stringify(srcUnusedImportedName,"","\t"))
 
 
-  ////////////////////////////////////////////////////
-  fs.writeFileSync('./output/allImportedName.json', JSON.stringify(allImportedName,"","\t"))
-
-
-  // vue文件中使用过的import name，排除import语句
-  let vueUsedImportNames = []
-
-  // async function getVueUsedImportNamesByline(path) {
-  //   // 文件内容
-  //   const fileDetail = fs.createReadStream(path)
-  //   // 按行读取
-  //   const rl = readline.createInterface({
-  //     input: fileDetail
-  //   })
-
-  //   let usedImportedNames = []
-
-  //   for await (const line of rl) {
-  //     const lineString = line.toString()
-
-  //     if (lineString.indexOf('import') !== -1 && isImage(lineString)) {
-
-  //     } else {
-  //       const usedNames = allImportedName.filter(v => lineString.indexOf(v) !== -1)
-  //       if (usedNames.length) {
-  //         usedImportedNames = usedImportedNames.concat(usedNames)
-  //       }
-  //     }
-  //   }
-
-  //   return distinct(usedImportedNames)
-  // }
-
-  // const getVueUsedImportNamesPromises = allVueList.map((path) => {
-  //   return new Promise(async (resolve) => {
-  //     const res = await getVueUsedImportNamesByline(path)
-  //     resolve(res)
-  //   })
-  // })
-
-  // async function getVueUsedImportNames() {
-  //   vueUsedImportNames = await Promise.all(getVueUsedImportNamesPromises)
-  // }
-
-  // await getVueUsedImportNames()
-
-  // fs.writeFileSync('./output/vueUsedImportNames.json', JSON.stringify(vueUsedImportNames,"","\t"))
-  ////////////////////////////////////////////////////
+  // 排除import语句后，vue文件中使用过的import name，包含:src和vue script中使用的
+  // 不准确，
+  let vueUsedImportNames = await resolveVueUsedImportNames(allVueList, allImportedName)
+  vueUsedImportNames = distinct(flattenDepth(vueUsedImportNames, 1))
+  fs.writeFileSync('./output/vueUsedImportNames.json', JSON.stringify(vueUsedImportNames,"","\t"))
 
 
   // 未被:src=使用，也未被vue script使用的import名称
